@@ -1,0 +1,8577 @@
+[
+  {
+    "year": "1976",
+    "state": "Alabama",
+    "votes": 659170,
+    "total": 1182850,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1976",
+    "state": "Alabama",
+    "votes": 504070,
+    "total": 1182850,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1976",
+    "state": "Alaska",
+    "votes": 71555,
+    "total": 123574,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1976",
+    "state": "Alaska",
+    "votes": 44058,
+    "total": 123574,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1976",
+    "state": "Arizona",
+    "votes": 418642,
+    "total": 742719,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1976",
+    "state": "Arizona",
+    "votes": 295602,
+    "total": 742719,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1976",
+    "state": "Arkansas",
+    "votes": 498604,
+    "total": 767535,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1976",
+    "state": "Arkansas",
+    "votes": 267903,
+    "total": 767535,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1976",
+    "state": "California",
+    "votes": 3882244,
+    "total": 7803770,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1976",
+    "state": "California",
+    "votes": 3742284,
+    "total": 7803770,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1976",
+    "state": "Colorado",
+    "votes": 584278,
+    "total": 1081440,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1976",
+    "state": "Colorado",
+    "votes": 460801,
+    "total": 1081440,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1976",
+    "state": "Connecticut",
+    "votes": 719261,
+    "total": 1386355,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1976",
+    "state": "Connecticut",
+    "votes": 647895,
+    "total": 1386355,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1976",
+    "state": "Delaware",
+    "votes": 122461,
+    "total": 235642,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1976",
+    "state": "Delaware",
+    "votes": 109780,
+    "total": 235642,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1976",
+    "state": "District Of Columbia",
+    "votes": 137818,
+    "total": 168830,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1976",
+    "state": "District Of Columbia",
+    "votes": 27873,
+    "total": 168830,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1976",
+    "state": "Florida",
+    "votes": 1636000,
+    "total": 3150631,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1976",
+    "state": "Florida",
+    "votes": 1469531,
+    "total": 3150631,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1976",
+    "state": "Georgia",
+    "votes": 979409,
+    "total": 1463152,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1976",
+    "state": "Georgia",
+    "votes": 483743,
+    "total": 1463152,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1976",
+    "state": "Hawaii",
+    "votes": 147375,
+    "total": 291301,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1976",
+    "state": "Hawaii",
+    "votes": 140003,
+    "total": 291301,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1976",
+    "state": "Idaho",
+    "votes": 204151,
+    "total": 340932,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1976",
+    "state": "Idaho",
+    "votes": 126549,
+    "total": 340932,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1976",
+    "state": "Illinois",
+    "votes": 2364269,
+    "total": 4721282,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1976",
+    "state": "Illinois",
+    "votes": 2271295,
+    "total": 4721282,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1976",
+    "state": "Indiana",
+    "votes": 1183958,
+    "total": 2220362,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1976",
+    "state": "Indiana",
+    "votes": 1014714,
+    "total": 2220362,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1976",
+    "state": "Iowa",
+    "votes": 632864,
+    "total": 1279303,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1976",
+    "state": "Iowa",
+    "votes": 619931,
+    "total": 1279303,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1976",
+    "state": "Kansas",
+    "votes": 502752,
+    "total": 957845,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1976",
+    "state": "Kansas",
+    "votes": 430421,
+    "total": 957845,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1976",
+    "state": "Kentucky",
+    "votes": 615717,
+    "total": 1167142,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1976",
+    "state": "Kentucky",
+    "votes": 531852,
+    "total": 1167142,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1976",
+    "state": "Louisiana",
+    "votes": 661365,
+    "total": 1277383,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1976",
+    "state": "Louisiana",
+    "votes": 587446,
+    "total": 1277383,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1976",
+    "state": "Maine",
+    "votes": 236320,
+    "total": 482968,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1976",
+    "state": "Maine",
+    "votes": 232279,
+    "total": 482968,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1976",
+    "state": "Maryland",
+    "votes": 759612,
+    "total": 1432273,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1976",
+    "state": "Maryland",
+    "votes": 672661,
+    "total": 1432273,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1976",
+    "state": "Massachusetts",
+    "votes": 1429475,
+    "total": 2547558,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1976",
+    "state": "Massachusetts",
+    "votes": 1030276,
+    "total": 2547558,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1976",
+    "state": "Michigan",
+    "votes": 1893742,
+    "total": 3651590,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1976",
+    "state": "Michigan",
+    "votes": 1696714,
+    "total": 3651590,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1976",
+    "state": "Minnesota",
+    "votes": 1070440,
+    "total": 1949931,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1976",
+    "state": "Minnesota",
+    "votes": 819395,
+    "total": 1949931,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1976",
+    "state": "Mississippi",
+    "votes": 381329,
+    "total": 768390,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1976",
+    "state": "Mississippi",
+    "votes": 366846,
+    "total": 768390,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1976",
+    "state": "Missouri",
+    "votes": 998387,
+    "total": 1953600,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1976",
+    "state": "Missouri",
+    "votes": 927443,
+    "total": 1953600,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1976",
+    "state": "Montana",
+    "votes": 173703,
+    "total": 328734,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1976",
+    "state": "Montana",
+    "votes": 149259,
+    "total": 328734,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1976",
+    "state": "Nebraska",
+    "votes": 359219,
+    "total": 606749,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1976",
+    "state": "Nebraska",
+    "votes": 233293,
+    "total": 606749,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1976",
+    "state": "Nevada",
+    "votes": 101273,
+    "total": 201876,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1976",
+    "state": "Nevada",
+    "votes": 92479,
+    "total": 201876,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1976",
+    "state": "New Hampshire",
+    "votes": 185935,
+    "total": 339627,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1976",
+    "state": "New Hampshire",
+    "votes": 147645,
+    "total": 339627,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1976",
+    "state": "New Jersey",
+    "votes": 1509688,
+    "total": 3014472,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1976",
+    "state": "New Jersey",
+    "votes": 1444653,
+    "total": 3014472,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1976",
+    "state": "New Mexico",
+    "votes": 211419,
+    "total": 416590,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1976",
+    "state": "New Mexico",
+    "votes": 201148,
+    "total": 416590,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1976",
+    "state": "New York",
+    "votes": 3244165,
+    "total": 6668262,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1976",
+    "state": "New York",
+    "votes": 2825913,
+    "total": 6668262,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1976",
+    "state": "North Carolina",
+    "votes": 927365,
+    "total": 1677906,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1976",
+    "state": "North Carolina",
+    "votes": 741960,
+    "total": 1677906,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1976",
+    "state": "North Dakota",
+    "votes": 153684,
+    "total": 297308,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1976",
+    "state": "North Dakota",
+    "votes": 136078,
+    "total": 297308,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1976",
+    "state": "Ohio",
+    "votes": 2009959,
+    "total": 4110456,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1976",
+    "state": "Ohio",
+    "votes": 2000626,
+    "total": 4110456,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1976",
+    "state": "Oklahoma",
+    "votes": 545708,
+    "total": 1092251,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1976",
+    "state": "Oklahoma",
+    "votes": 532442,
+    "total": 1092251,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1976",
+    "state": "Oregon",
+    "votes": 492120,
+    "total": 1029876,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1976",
+    "state": "Oregon",
+    "votes": 490407,
+    "total": 1029876,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1976",
+    "state": "Pennsylvania",
+    "votes": 2328677,
+    "total": 4620787,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1976",
+    "state": "Pennsylvania",
+    "votes": 2205604,
+    "total": 4620787,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1976",
+    "state": "Rhode Island",
+    "votes": 227636,
+    "total": 410584,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1976",
+    "state": "Rhode Island",
+    "votes": 181249,
+    "total": 410584,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1976",
+    "state": "South Carolina",
+    "votes": 450807,
+    "total": 802583,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1976",
+    "state": "South Carolina",
+    "votes": 346149,
+    "total": 802583,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1976",
+    "state": "South Dakota",
+    "votes": 151505,
+    "total": 300678,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1976",
+    "state": "South Dakota",
+    "votes": 147068,
+    "total": 300678,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1976",
+    "state": "Tennessee",
+    "votes": 825879,
+    "total": 1476346,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1976",
+    "state": "Tennessee",
+    "votes": 633969,
+    "total": 1476346,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1976",
+    "state": "Texas",
+    "votes": 2082319,
+    "total": 4071884,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1976",
+    "state": "Texas",
+    "votes": 1953300,
+    "total": 4071884,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1976",
+    "state": "Utah",
+    "votes": 337908,
+    "total": 541218,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1976",
+    "state": "Utah",
+    "votes": 182110,
+    "total": 541218,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1976",
+    "state": "Vermont",
+    "votes": 100387,
+    "total": 183902,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1976",
+    "state": "Vermont",
+    "votes": 77798,
+    "total": 183902,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1976",
+    "state": "Virginia",
+    "votes": 836554,
+    "total": 1697094,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1976",
+    "state": "Virginia",
+    "votes": 813896,
+    "total": 1697094,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1976",
+    "state": "Washington",
+    "votes": 777732,
+    "total": 1555534,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1976",
+    "state": "Washington",
+    "votes": 717323,
+    "total": 1555534,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1976",
+    "state": "West Virginia",
+    "votes": 435864,
+    "total": 750590,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1976",
+    "state": "West Virginia",
+    "votes": 314726,
+    "total": 750590,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1976",
+    "state": "Wisconsin",
+    "votes": 1040232,
+    "total": 2101336,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1976",
+    "state": "Wisconsin",
+    "votes": 1004987,
+    "total": 2101336,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1976",
+    "state": "Wyoming",
+    "votes": 92717,
+    "total": 156343,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1976",
+    "state": "Wyoming",
+    "votes": 62239,
+    "total": 156343,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1980",
+    "state": "Alabama",
+    "votes": 654192,
+    "total": 1341929,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1980",
+    "state": "Alabama",
+    "votes": 636730,
+    "total": 1341929,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1980",
+    "state": "Alaska",
+    "votes": 86112,
+    "total": 158445,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1980",
+    "state": "Alaska",
+    "votes": 41842,
+    "total": 158445,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1980",
+    "state": "Arizona",
+    "votes": 529688,
+    "total": 873945,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1980",
+    "state": "Arizona",
+    "votes": 246843,
+    "total": 873945,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1980",
+    "state": "Arkansas",
+    "votes": 403164,
+    "total": 837582,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1980",
+    "state": "Arkansas",
+    "votes": 398041,
+    "total": 837582,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1980",
+    "state": "California",
+    "votes": 4522994,
+    "total": 8582938,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1980",
+    "state": "California",
+    "votes": 3082943,
+    "total": 8582938,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1980",
+    "state": "Colorado",
+    "votes": 652264,
+    "total": 1184450,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1980",
+    "state": "Colorado",
+    "votes": 368009,
+    "total": 1184450,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1980",
+    "state": "Connecticut",
+    "votes": 677210,
+    "total": 1406285,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1980",
+    "state": "Connecticut",
+    "votes": 541732,
+    "total": 1406285,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1980",
+    "state": "Delaware",
+    "votes": 111252,
+    "total": 235668,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1980",
+    "state": "Delaware",
+    "votes": 105754,
+    "total": 235668,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1980",
+    "state": "District Of Columbia",
+    "votes": 130231,
+    "total": 173889,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1980",
+    "state": "District Of Columbia",
+    "votes": 23313,
+    "total": 173889,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1980",
+    "state": "Florida",
+    "votes": 2046951,
+    "total": 3686927,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1980",
+    "state": "Florida",
+    "votes": 1419475,
+    "total": 3686927,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1980",
+    "state": "Georgia",
+    "votes": 890955,
+    "total": 1596805,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1980",
+    "state": "Georgia",
+    "votes": 654168,
+    "total": 1596805,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1980",
+    "state": "Hawaii",
+    "votes": 135879,
+    "total": 303287,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1980",
+    "state": "Hawaii",
+    "votes": 130112,
+    "total": 303287,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1980",
+    "state": "Idaho",
+    "votes": 290699,
+    "total": 437431,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1980",
+    "state": "Idaho",
+    "votes": 110192,
+    "total": 437431,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1980",
+    "state": "Illinois",
+    "votes": 2358049,
+    "total": 4749721,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1980",
+    "state": "Illinois",
+    "votes": 1981413,
+    "total": 4749721,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1980",
+    "state": "Indiana",
+    "votes": 1255656,
+    "total": 2242033,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1980",
+    "state": "Indiana",
+    "votes": 844197,
+    "total": 2242033,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1980",
+    "state": "Iowa",
+    "votes": 676026,
+    "total": 1317661,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1980",
+    "state": "Iowa",
+    "votes": 508672,
+    "total": 1317661,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1980",
+    "state": "Kansas",
+    "votes": 566812,
+    "total": 979795,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1980",
+    "state": "Kansas",
+    "votes": 326150,
+    "total": 979795,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1980",
+    "state": "Kentucky",
+    "votes": 635274,
+    "total": 1295627,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1980",
+    "state": "Kentucky",
+    "votes": 617417,
+    "total": 1295627,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1980",
+    "state": "Louisiana",
+    "votes": 792853,
+    "total": 1548591,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1980",
+    "state": "Louisiana",
+    "votes": 708453,
+    "total": 1548591,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1980",
+    "state": "Maine",
+    "votes": 238522,
+    "total": 523011,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1980",
+    "state": "Maine",
+    "votes": 220974,
+    "total": 523011,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1980",
+    "state": "Maryland",
+    "votes": 726161,
+    "total": 1540496,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1980",
+    "state": "Maryland",
+    "votes": 680606,
+    "total": 1540496,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1980",
+    "state": "Massachusetts",
+    "votes": 1057631,
+    "total": 2524090,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1980",
+    "state": "Massachusetts",
+    "votes": 1053802,
+    "total": 2524090,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1980",
+    "state": "Michigan",
+    "votes": 1915225,
+    "total": 3909725,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1980",
+    "state": "Michigan",
+    "votes": 1661532,
+    "total": 3909725,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1980",
+    "state": "Minnesota",
+    "votes": 954173,
+    "total": 2051916,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1980",
+    "state": "Minnesota",
+    "votes": 873268,
+    "total": 2051916,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1980",
+    "state": "Mississippi",
+    "votes": 441089,
+    "total": 891750,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1980",
+    "state": "Mississippi",
+    "votes": 429281,
+    "total": 891750,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1980",
+    "state": "Missouri",
+    "votes": 1074181,
+    "total": 2099824,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1980",
+    "state": "Missouri",
+    "votes": 931182,
+    "total": 2099824,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1980",
+    "state": "Montana",
+    "votes": 206814,
+    "total": 363952,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1980",
+    "state": "Montana",
+    "votes": 118032,
+    "total": 363952,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1980",
+    "state": "Nebraska",
+    "votes": 419214,
+    "total": 639533,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1980",
+    "state": "Nebraska",
+    "votes": 166424,
+    "total": 639533,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1980",
+    "state": "Nevada",
+    "votes": 155017,
+    "total": 243692,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1980",
+    "state": "Nevada",
+    "votes": 66666,
+    "total": 243692,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1980",
+    "state": "New Hampshire",
+    "votes": 221705,
+    "total": 383990,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1980",
+    "state": "New Hampshire",
+    "votes": 108864,
+    "total": 383990,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1980",
+    "state": "New Jersey",
+    "votes": 1546557,
+    "total": 2975684,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1980",
+    "state": "New Jersey",
+    "votes": 1147364,
+    "total": 2975684,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1980",
+    "state": "New Mexico",
+    "votes": 250779,
+    "total": 456237,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1980",
+    "state": "New Mexico",
+    "votes": 167826,
+    "total": 456237,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1980",
+    "state": "New York",
+    "votes": 2728372,
+    "total": 6201959,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1980",
+    "state": "New York",
+    "votes": 2637700,
+    "total": 6201959,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1980",
+    "state": "North Carolina",
+    "votes": 915018,
+    "total": 1855833,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1980",
+    "state": "North Carolina",
+    "votes": 875635,
+    "total": 1855833,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1980",
+    "state": "North Dakota",
+    "votes": 193695,
+    "total": 301116,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1980",
+    "state": "North Dakota",
+    "votes": 79189,
+    "total": 301116,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1980",
+    "state": "Ohio",
+    "votes": 2206545,
+    "total": 4283603,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1980",
+    "state": "Ohio",
+    "votes": 1752414,
+    "total": 4283603,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1980",
+    "state": "Oklahoma",
+    "votes": 695570,
+    "total": 1149708,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1980",
+    "state": "Oklahoma",
+    "votes": 402026,
+    "total": 1149708,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1980",
+    "state": "Oregon",
+    "votes": 571044,
+    "total": 1181516,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1980",
+    "state": "Oregon",
+    "votes": 456890,
+    "total": 1181516,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1980",
+    "state": "Pennsylvania",
+    "votes": 2261872,
+    "total": 4561501,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1980",
+    "state": "Pennsylvania",
+    "votes": 1937540,
+    "total": 4561501,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1980",
+    "state": "Rhode Island",
+    "votes": 198342,
+    "total": 415967,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1980",
+    "state": "Rhode Island",
+    "votes": 154793,
+    "total": 415967,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1980",
+    "state": "South Carolina",
+    "votes": 439277,
+    "total": 888258,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1980",
+    "state": "South Carolina",
+    "votes": 428220,
+    "total": 888258,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1980",
+    "state": "South Dakota",
+    "votes": 198343,
+    "total": 327703,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1980",
+    "state": "South Dakota",
+    "votes": 103855,
+    "total": 327703,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1980",
+    "state": "Tennessee",
+    "votes": 787761,
+    "total": 1617616,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1980",
+    "state": "Tennessee",
+    "votes": 783051,
+    "total": 1617616,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1980",
+    "state": "Texas",
+    "votes": 2510705,
+    "total": 4541636,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1980",
+    "state": "Texas",
+    "votes": 1881147,
+    "total": 4541636,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1980",
+    "state": "Utah",
+    "votes": 439687,
+    "total": 604152,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1980",
+    "state": "Utah",
+    "votes": 124266,
+    "total": 604152,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1980",
+    "state": "Vermont",
+    "votes": 94628,
+    "total": 213299,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1980",
+    "state": "Vermont",
+    "votes": 81952,
+    "total": 213299,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1980",
+    "state": "Virginia",
+    "votes": 989609,
+    "total": 1866032,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1980",
+    "state": "Virginia",
+    "votes": 752174,
+    "total": 1866032,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1980",
+    "state": "Washington",
+    "votes": 865244,
+    "total": 1742394,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1980",
+    "state": "Washington",
+    "votes": 650193,
+    "total": 1742394,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1980",
+    "state": "West Virginia",
+    "votes": 367462,
+    "total": 737715,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1980",
+    "state": "West Virginia",
+    "votes": 334206,
+    "total": 737715,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1980",
+    "state": "Wisconsin",
+    "votes": 1088845,
+    "total": 2273221,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1980",
+    "state": "Wisconsin",
+    "votes": 981584,
+    "total": 2273221,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1980",
+    "state": "Wyoming",
+    "votes": 110700,
+    "total": 176713,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1980",
+    "state": "Wyoming",
+    "votes": 49427,
+    "total": 176713,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1984",
+    "state": "Alabama",
+    "votes": 872849,
+    "total": 1441713,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1984",
+    "state": "Alabama",
+    "votes": 551899,
+    "total": 1441713,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1984",
+    "state": "Alaska",
+    "votes": 138377,
+    "total": 207605,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1984",
+    "state": "Alaska",
+    "votes": 62007,
+    "total": 207605,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1984",
+    "state": "Arizona",
+    "votes": 681416,
+    "total": 1025897,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1984",
+    "state": "Arizona",
+    "votes": 333854,
+    "total": 1025897,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1984",
+    "state": "Arkansas",
+    "votes": 534774,
+    "total": 884406,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1984",
+    "state": "Arkansas",
+    "votes": 338646,
+    "total": 884406,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1984",
+    "state": "California",
+    "votes": 5467009,
+    "total": 9505041,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1984",
+    "state": "California",
+    "votes": 3922519,
+    "total": 9505041,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1984",
+    "state": "Colorado",
+    "votes": 821817,
+    "total": 1295380,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1984",
+    "state": "Colorado",
+    "votes": 454975,
+    "total": 1295380,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1984",
+    "state": "Connecticut",
+    "votes": 890877,
+    "total": 1466900,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1984",
+    "state": "Connecticut",
+    "votes": 569597,
+    "total": 1466900,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1984",
+    "state": "Delaware",
+    "votes": 152190,
+    "total": 254572,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1984",
+    "state": "Delaware",
+    "votes": 101656,
+    "total": 254572,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1984",
+    "state": "District Of Columbia",
+    "votes": 180408,
+    "total": 211288,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1984",
+    "state": "District Of Columbia",
+    "votes": 29009,
+    "total": 211288,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1984",
+    "state": "Florida",
+    "votes": 2730350,
+    "total": 4180051,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1984",
+    "state": "Florida",
+    "votes": 1448816,
+    "total": 4180051,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1984",
+    "state": "Georgia",
+    "votes": 1068722,
+    "total": 1776103,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1984",
+    "state": "Georgia",
+    "votes": 706628,
+    "total": 1776103,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1984",
+    "state": "Hawaii",
+    "votes": 185050,
+    "total": 335846,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1984",
+    "state": "Hawaii",
+    "votes": 147154,
+    "total": 335846,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1984",
+    "state": "Idaho",
+    "votes": 297523,
+    "total": 411144,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1984",
+    "state": "Idaho",
+    "votes": 108510,
+    "total": 411144,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1984",
+    "state": "Illinois",
+    "votes": 2707103,
+    "total": 4819088,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1984",
+    "state": "Illinois",
+    "votes": 2086499,
+    "total": 4819088,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1984",
+    "state": "Indiana",
+    "votes": 1377230,
+    "total": 2233069,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1984",
+    "state": "Indiana",
+    "votes": 841481,
+    "total": 2233069,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1984",
+    "state": "Iowa",
+    "votes": 703088,
+    "total": 1319805,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1984",
+    "state": "Iowa",
+    "votes": 605620,
+    "total": 1319805,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1984",
+    "state": "Kansas",
+    "votes": 677296,
+    "total": 1021991,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1984",
+    "state": "Kansas",
+    "votes": 333149,
+    "total": 1021991,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1984",
+    "state": "Kentucky",
+    "votes": 821702,
+    "total": 1369345,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1984",
+    "state": "Kentucky",
+    "votes": 539539,
+    "total": 1369345,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1984",
+    "state": "Louisiana",
+    "votes": 1037299,
+    "total": 1706822,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1984",
+    "state": "Louisiana",
+    "votes": 651586,
+    "total": 1706822,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1984",
+    "state": "Maine",
+    "votes": 336500,
+    "total": 553144,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1984",
+    "state": "Maine",
+    "votes": 214515,
+    "total": 553144,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1984",
+    "state": "Maryland",
+    "votes": 879918,
+    "total": 1675873,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1984",
+    "state": "Maryland",
+    "votes": 787935,
+    "total": 1675873,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1984",
+    "state": "Massachusetts",
+    "votes": 1310936,
+    "total": 2559383,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1984",
+    "state": "Massachusetts",
+    "votes": 1239606,
+    "total": 2559383,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1984",
+    "state": "Michigan",
+    "votes": 2251571,
+    "total": 3801658,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1984",
+    "state": "Michigan",
+    "votes": 1529638,
+    "total": 3801658,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1984",
+    "state": "Minnesota",
+    "votes": 1036364,
+    "total": 2084449,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1984",
+    "state": "Minnesota",
+    "votes": 1032603,
+    "total": 2084449,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1984",
+    "state": "Mississippi",
+    "votes": 582377,
+    "total": 941104,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1984",
+    "state": "Mississippi",
+    "votes": 352192,
+    "total": 941104,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1984",
+    "state": "Missouri",
+    "votes": 1274188,
+    "total": 2122771,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1984",
+    "state": "Missouri",
+    "votes": 848583,
+    "total": 2122771,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1984",
+    "state": "Montana",
+    "votes": 232450,
+    "total": 384377,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1984",
+    "state": "Montana",
+    "votes": 146742,
+    "total": 384377,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1984",
+    "state": "Nebraska",
+    "votes": 460054,
+    "total": 652090,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1984",
+    "state": "Nebraska",
+    "votes": 187866,
+    "total": 652090,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1984",
+    "state": "Nevada",
+    "votes": 188770,
+    "total": 282717,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1984",
+    "state": "Nevada",
+    "votes": 91655,
+    "total": 282717,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1984",
+    "state": "New Hampshire",
+    "votes": 267050,
+    "total": 388904,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1984",
+    "state": "New Hampshire",
+    "votes": 120347,
+    "total": 388904,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1984",
+    "state": "New Jersey",
+    "votes": 1933630,
+    "total": 3217862,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1984",
+    "state": "New Jersey",
+    "votes": 1261323,
+    "total": 3217862,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1984",
+    "state": "New Mexico",
+    "votes": 307101,
+    "total": 514370,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1984",
+    "state": "New Mexico",
+    "votes": 201769,
+    "total": 514370,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1984",
+    "state": "New York",
+    "votes": 3376519,
+    "total": 6806810,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1984",
+    "state": "New York",
+    "votes": 3001285,
+    "total": 6806810,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1984",
+    "state": "North Carolina",
+    "votes": 1346481,
+    "total": 2175361,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1984",
+    "state": "North Carolina",
+    "votes": 824287,
+    "total": 2175361,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1984",
+    "state": "North Dakota",
+    "votes": 200336,
+    "total": 308971,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1984",
+    "state": "North Dakota",
+    "votes": 104429,
+    "total": 308971,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1984",
+    "state": "Ohio",
+    "votes": 2678559,
+    "total": 4563235,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1984",
+    "state": "Ohio",
+    "votes": 1825440,
+    "total": 4563235,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1984",
+    "state": "Oklahoma",
+    "votes": 861530,
+    "total": 1255676,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1984",
+    "state": "Oklahoma",
+    "votes": 385080,
+    "total": 1255676,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1984",
+    "state": "Oregon",
+    "votes": 685700,
+    "total": 1226527,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1984",
+    "state": "Oregon",
+    "votes": 536479,
+    "total": 1226527,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1984",
+    "state": "Pennsylvania",
+    "votes": 2584323,
+    "total": 4844903,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1984",
+    "state": "Pennsylvania",
+    "votes": 2228131,
+    "total": 4844903,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1984",
+    "state": "Rhode Island",
+    "votes": 212080,
+    "total": 410489,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1984",
+    "state": "Rhode Island",
+    "votes": 197106,
+    "total": 410489,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1984",
+    "state": "South Carolina",
+    "votes": 615539,
+    "total": 968529,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1984",
+    "state": "South Carolina",
+    "votes": 344459,
+    "total": 968529,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1984",
+    "state": "South Dakota",
+    "votes": 200267,
+    "total": 317867,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1984",
+    "state": "South Dakota",
+    "votes": 116113,
+    "total": 317867,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1984",
+    "state": "Tennessee",
+    "votes": 990212,
+    "total": 1711993,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1984",
+    "state": "Tennessee",
+    "votes": 711714,
+    "total": 1711993,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1984",
+    "state": "Texas",
+    "votes": 3433428,
+    "total": 5397571,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1984",
+    "state": "Texas",
+    "votes": 1949276,
+    "total": 5397571,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1984",
+    "state": "Utah",
+    "votes": 469105,
+    "total": 629656,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1984",
+    "state": "Utah",
+    "votes": 155369,
+    "total": 629656,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1984",
+    "state": "Vermont",
+    "votes": 135865,
+    "total": 234561,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1984",
+    "state": "Vermont",
+    "votes": 95730,
+    "total": 234561,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1984",
+    "state": "Virginia",
+    "votes": 1337078,
+    "total": 2146635,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1984",
+    "state": "Virginia",
+    "votes": 796250,
+    "total": 2146635,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1984",
+    "state": "Washington",
+    "votes": 1051670,
+    "total": 1874910,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1984",
+    "state": "Washington",
+    "votes": 798352,
+    "total": 1874910,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1984",
+    "state": "West Virginia",
+    "votes": 405483,
+    "total": 735742,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1984",
+    "state": "West Virginia",
+    "votes": 328125,
+    "total": 735742,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1984",
+    "state": "Wisconsin",
+    "votes": 1198584,
+    "total": 2211689,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1984",
+    "state": "Wisconsin",
+    "votes": 995740,
+    "total": 2211689,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1984",
+    "state": "Wyoming",
+    "votes": 133241,
+    "total": 188968,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1984",
+    "state": "Wyoming",
+    "votes": 53370,
+    "total": 188968,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1988",
+    "state": "Alabama",
+    "votes": 815576,
+    "total": 1378476,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1988",
+    "state": "Alabama",
+    "votes": 549506,
+    "total": 1378476,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1988",
+    "state": "Alaska",
+    "votes": 119251,
+    "total": 200116,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1988",
+    "state": "Alaska",
+    "votes": 72584,
+    "total": 200116,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1988",
+    "state": "Arizona",
+    "votes": 702541,
+    "total": 1171873,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1988",
+    "state": "Arizona",
+    "votes": 454029,
+    "total": 1171873,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1988",
+    "state": "Arkansas",
+    "votes": 466578,
+    "total": 827738,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1988",
+    "state": "Arkansas",
+    "votes": 349237,
+    "total": 827738,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1988",
+    "state": "California",
+    "votes": 5054917,
+    "total": 9887065,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1988",
+    "state": "California",
+    "votes": 4702233,
+    "total": 9887065,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1988",
+    "state": "Colorado",
+    "votes": 728177,
+    "total": 1372394,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1988",
+    "state": "Colorado",
+    "votes": 621453,
+    "total": 1372394,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1988",
+    "state": "Connecticut",
+    "votes": 750241,
+    "total": 1443394,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1988",
+    "state": "Connecticut",
+    "votes": 676584,
+    "total": 1443394,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1988",
+    "state": "Delaware",
+    "votes": 139639,
+    "total": 249891,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1988",
+    "state": "Delaware",
+    "votes": 108647,
+    "total": 249891,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1988",
+    "state": "District Of Columbia",
+    "votes": 159407,
+    "total": 192877,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1988",
+    "state": "District Of Columbia",
+    "votes": 27590,
+    "total": 192877,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1988",
+    "state": "Florida",
+    "votes": 2618885,
+    "total": 4302313,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1988",
+    "state": "Florida",
+    "votes": 1656701,
+    "total": 4302313,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1988",
+    "state": "Georgia",
+    "votes": 1081331,
+    "total": 1809672,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1988",
+    "state": "Georgia",
+    "votes": 714792,
+    "total": 1809672,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1988",
+    "state": "Hawaii",
+    "votes": 192364,
+    "total": 354461,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1988",
+    "state": "Hawaii",
+    "votes": 158625,
+    "total": 354461,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1988",
+    "state": "Idaho",
+    "votes": 253881,
+    "total": 408968,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1988",
+    "state": "Idaho",
+    "votes": 147272,
+    "total": 408968,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1988",
+    "state": "Illinois",
+    "votes": 2310939,
+    "total": 4559120,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1988",
+    "state": "Illinois",
+    "votes": 2215940,
+    "total": 4559120,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1988",
+    "state": "Indiana",
+    "votes": 1297763,
+    "total": 2168621,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1988",
+    "state": "Indiana",
+    "votes": 860643,
+    "total": 2168621,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1988",
+    "state": "Iowa",
+    "votes": 670557,
+    "total": 1225614,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1988",
+    "state": "Iowa",
+    "votes": 545355,
+    "total": 1225614,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1988",
+    "state": "Kansas",
+    "votes": 554049,
+    "total": 993044,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1988",
+    "state": "Kansas",
+    "votes": 422636,
+    "total": 993044,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1988",
+    "state": "Kentucky",
+    "votes": 734281,
+    "total": 1322517,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1988",
+    "state": "Kentucky",
+    "votes": 580368,
+    "total": 1322517,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1988",
+    "state": "Louisiana",
+    "votes": 883702,
+    "total": 1628202,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1988",
+    "state": "Louisiana",
+    "votes": 717460,
+    "total": 1628202,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1988",
+    "state": "Maine",
+    "votes": 307131,
+    "total": 555035,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1988",
+    "state": "Maine",
+    "votes": 243569,
+    "total": 555035,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1988",
+    "state": "Maryland",
+    "votes": 876167,
+    "total": 1714358,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1988",
+    "state": "Maryland",
+    "votes": 826304,
+    "total": 1714358,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1988",
+    "state": "Massachusetts",
+    "votes": 1401415,
+    "total": 2632801,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1988",
+    "state": "Massachusetts",
+    "votes": 1194635,
+    "total": 2632801,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1988",
+    "state": "Michigan",
+    "votes": 1965486,
+    "total": 3669163,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1988",
+    "state": "Michigan",
+    "votes": 1675783,
+    "total": 3669163,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1988",
+    "state": "Minnesota",
+    "votes": 1109471,
+    "total": 2096790,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1988",
+    "state": "Minnesota",
+    "votes": 962337,
+    "total": 2096790,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1988",
+    "state": "Mississippi",
+    "votes": 557890,
+    "total": 931527,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1988",
+    "state": "Mississippi",
+    "votes": 363921,
+    "total": 931527,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1988",
+    "state": "Missouri",
+    "votes": 1084953,
+    "total": 2093228,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1988",
+    "state": "Missouri",
+    "votes": 1001619,
+    "total": 2093228,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1988",
+    "state": "Montana",
+    "votes": 190412,
+    "total": 365674,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1988",
+    "state": "Montana",
+    "votes": 168936,
+    "total": 365674,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1988",
+    "state": "Nebraska",
+    "votes": 397956,
+    "total": 661465,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1988",
+    "state": "Nebraska",
+    "votes": 259235,
+    "total": 661465,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1988",
+    "state": "Nevada",
+    "votes": 206040,
+    "total": 343133,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1988",
+    "state": "Nevada",
+    "votes": 132738,
+    "total": 343133,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1988",
+    "state": "New Hampshire",
+    "votes": 281537,
+    "total": 450525,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1988",
+    "state": "New Hampshire",
+    "votes": 163696,
+    "total": 450525,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1988",
+    "state": "New Jersey",
+    "votes": 1743192,
+    "total": 3099553,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1988",
+    "state": "New Jersey",
+    "votes": 1320352,
+    "total": 3099553,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1988",
+    "state": "New Mexico",
+    "votes": 270341,
+    "total": 521387,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1988",
+    "state": "New Mexico",
+    "votes": 244497,
+    "total": 521387,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1988",
+    "state": "New York",
+    "votes": 3255487,
+    "total": 6485683,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1988",
+    "state": "New York",
+    "votes": 2838414,
+    "total": 6485683,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1988",
+    "state": "North Carolina",
+    "votes": 1237258,
+    "total": 2134370,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1988",
+    "state": "North Carolina",
+    "votes": 890167,
+    "total": 2134370,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1988",
+    "state": "North Dakota",
+    "votes": 166559,
+    "total": 297261,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1988",
+    "state": "North Dakota",
+    "votes": 127739,
+    "total": 297261,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1988",
+    "state": "Ohio",
+    "votes": 2416549,
+    "total": 4393585,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1988",
+    "state": "Ohio",
+    "votes": 1939629,
+    "total": 4393585,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1988",
+    "state": "Oklahoma",
+    "votes": 678367,
+    "total": 1171036,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1988",
+    "state": "Oklahoma",
+    "votes": 483423,
+    "total": 1171036,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1988",
+    "state": "Oregon",
+    "votes": 616206,
+    "total": 1201694,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1988",
+    "state": "Oregon",
+    "votes": 560126,
+    "total": 1201694,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1988",
+    "state": "Pennsylvania",
+    "votes": 2300087,
+    "total": 4536251,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1988",
+    "state": "Pennsylvania",
+    "votes": 2194944,
+    "total": 4536251,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1988",
+    "state": "Rhode Island",
+    "votes": 225123,
+    "total": 404622,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1988",
+    "state": "Rhode Island",
+    "votes": 177761,
+    "total": 404622,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1988",
+    "state": "South Carolina",
+    "votes": 606443,
+    "total": 986009,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1988",
+    "state": "South Carolina",
+    "votes": 370554,
+    "total": 986009,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1988",
+    "state": "South Dakota",
+    "votes": 165415,
+    "total": 312991,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1988",
+    "state": "South Dakota",
+    "votes": 145560,
+    "total": 312991,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1988",
+    "state": "Tennessee",
+    "votes": 947233,
+    "total": 1636250,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1988",
+    "state": "Tennessee",
+    "votes": 679794,
+    "total": 1636250,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1988",
+    "state": "Texas",
+    "votes": 3036829,
+    "total": 5427410,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1988",
+    "state": "Texas",
+    "votes": 2352748,
+    "total": 5427410,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1988",
+    "state": "Utah",
+    "votes": 428442,
+    "total": 647008,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1988",
+    "state": "Utah",
+    "votes": 207343,
+    "total": 647008,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1988",
+    "state": "Vermont",
+    "votes": 124331,
+    "total": 243328,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1988",
+    "state": "Vermont",
+    "votes": 115775,
+    "total": 243328,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1988",
+    "state": "Virginia",
+    "votes": 1309162,
+    "total": 2191609,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1988",
+    "state": "Virginia",
+    "votes": 859799,
+    "total": 2191609,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1988",
+    "state": "Washington",
+    "votes": 933516,
+    "total": 1865253,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1988",
+    "state": "Washington",
+    "votes": 903835,
+    "total": 1865253,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1988",
+    "state": "West Virginia",
+    "votes": 341016,
+    "total": 653311,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1988",
+    "state": "West Virginia",
+    "votes": 310065,
+    "total": 653311,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1988",
+    "state": "Wisconsin",
+    "votes": 1126794,
+    "total": 2191608,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1988",
+    "state": "Wisconsin",
+    "votes": 1047499,
+    "total": 2191608,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1988",
+    "state": "Wyoming",
+    "votes": 106867,
+    "total": 176551,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1988",
+    "state": "Wyoming",
+    "votes": 67113,
+    "total": 176551,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1992",
+    "state": "Alabama",
+    "votes": 804283,
+    "total": 1688060,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1992",
+    "state": "Alabama",
+    "votes": 690080,
+    "total": 1688060,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1992",
+    "state": "Alaska",
+    "votes": 102000,
+    "total": 258506,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1992",
+    "state": "Alaska",
+    "votes": 78294,
+    "total": 258506,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1992",
+    "state": "Arizona",
+    "votes": 572086,
+    "total": 1486975,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1992",
+    "state": "Arizona",
+    "votes": 543050,
+    "total": 1486975,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1992",
+    "state": "Arkansas",
+    "votes": 505823,
+    "total": 950653,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1992",
+    "state": "Arkansas",
+    "votes": 337324,
+    "total": 950653,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1992",
+    "state": "California",
+    "votes": 5121325,
+    "total": 11131721,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1992",
+    "state": "California",
+    "votes": 3630574,
+    "total": 11131721,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1992",
+    "state": "Colorado",
+    "votes": 629681,
+    "total": 1569180,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1992",
+    "state": "Colorado",
+    "votes": 562850,
+    "total": 1569180,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1992",
+    "state": "Connecticut",
+    "votes": 682318,
+    "total": 1616156,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1992",
+    "state": "Connecticut",
+    "votes": 578313,
+    "total": 1616156,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1992",
+    "state": "Delaware",
+    "votes": 126054,
+    "total": 289620,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1992",
+    "state": "Delaware",
+    "votes": 102313,
+    "total": 289620,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1992",
+    "state": "District Of Columbia",
+    "votes": 192619,
+    "total": 227572,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1992",
+    "state": "District Of Columbia",
+    "votes": 20698,
+    "total": 227572,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1992",
+    "state": "Florida",
+    "votes": 2173310,
+    "total": 5313392,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1992",
+    "state": "Florida",
+    "votes": 2071698,
+    "total": 5313392,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1992",
+    "state": "Georgia",
+    "votes": 1008966,
+    "total": 2321133,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1992",
+    "state": "Georgia",
+    "votes": 995252,
+    "total": 2321133,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1992",
+    "state": "Hawaii",
+    "votes": 179310,
+    "total": 372842,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1992",
+    "state": "Hawaii",
+    "votes": 136822,
+    "total": 372842,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1992",
+    "state": "Idaho",
+    "votes": 202645,
+    "total": 482114,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1992",
+    "state": "Idaho",
+    "votes": 137013,
+    "total": 482114,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1992",
+    "state": "Illinois",
+    "votes": 2453350,
+    "total": 5050157,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1992",
+    "state": "Illinois",
+    "votes": 1734096,
+    "total": 5050157,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1992",
+    "state": "Indiana",
+    "votes": 989375,
+    "total": 2305871,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1992",
+    "state": "Indiana",
+    "votes": 848420,
+    "total": 2305871,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1992",
+    "state": "Iowa",
+    "votes": 586353,
+    "total": 1354607,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1992",
+    "state": "Iowa",
+    "votes": 504891,
+    "total": 1354607,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1992",
+    "state": "Kansas",
+    "votes": 449951,
+    "total": 1157236,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1992",
+    "state": "Kansas",
+    "votes": 390434,
+    "total": 1157236,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1992",
+    "state": "Kentucky",
+    "votes": 665104,
+    "total": 1492900,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1992",
+    "state": "Kentucky",
+    "votes": 617178,
+    "total": 1492900,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1992",
+    "state": "Louisiana",
+    "votes": 815971,
+    "total": 1790017,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1992",
+    "state": "Louisiana",
+    "votes": 733386,
+    "total": 1790017,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1992",
+    "state": "Maine",
+    "votes": 263420,
+    "total": 679499,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1992",
+    "state": "Maine",
+    "votes": 206504,
+    "total": 679499,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1992",
+    "state": "Maryland",
+    "votes": 988571,
+    "total": 1984580,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1992",
+    "state": "Maryland",
+    "votes": 707094,
+    "total": 1984580,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1992",
+    "state": "Massachusetts",
+    "votes": 1318639,
+    "total": 2773664,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1992",
+    "state": "Massachusetts",
+    "votes": 805039,
+    "total": 2773664,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1992",
+    "state": "Michigan",
+    "votes": 1871182,
+    "total": 4274673,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1992",
+    "state": "Michigan",
+    "votes": 1554940,
+    "total": 4274673,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1992",
+    "state": "Minnesota",
+    "votes": 1020997,
+    "total": 2347948,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1992",
+    "state": "Minnesota",
+    "votes": 747841,
+    "total": 2347948,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1992",
+    "state": "Mississippi",
+    "votes": 487793,
+    "total": 981793,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1992",
+    "state": "Mississippi",
+    "votes": 400258,
+    "total": 981793,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1992",
+    "state": "Missouri",
+    "votes": 1053873,
+    "total": 2391270,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1992",
+    "state": "Missouri",
+    "votes": 811159,
+    "total": 2391270,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1992",
+    "state": "Montana",
+    "votes": 154507,
+    "total": 410583,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1992",
+    "state": "Montana",
+    "votes": 144207,
+    "total": 410583,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1992",
+    "state": "Nebraska",
+    "votes": 343678,
+    "total": 737546,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1992",
+    "state": "Nebraska",
+    "votes": 216864,
+    "total": 737546,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1992",
+    "state": "Nevada",
+    "votes": 189148,
+    "total": 506318,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1992",
+    "state": "Nevada",
+    "votes": 175828,
+    "total": 506318,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1992",
+    "state": "New Hampshire",
+    "votes": 209040,
+    "total": 537215,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1992",
+    "state": "New Hampshire",
+    "votes": 202484,
+    "total": 537215,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1992",
+    "state": "New Jersey",
+    "votes": 1436206,
+    "total": 3343594,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1992",
+    "state": "New Jersey",
+    "votes": 1356865,
+    "total": 3343594,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1992",
+    "state": "New Mexico",
+    "votes": 261617,
+    "total": 569986,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1992",
+    "state": "New Mexico",
+    "votes": 212824,
+    "total": 569986,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1992",
+    "state": "New York",
+    "votes": 3346894,
+    "total": 7079432,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1992",
+    "state": "New York",
+    "votes": 2041690,
+    "total": 7079432,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1992",
+    "state": "North Carolina",
+    "votes": 1134661,
+    "total": 2611850,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1992",
+    "state": "North Carolina",
+    "votes": 1114042,
+    "total": 2611850,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1992",
+    "state": "North Dakota",
+    "votes": 136244,
+    "total": 308133,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1992",
+    "state": "North Dakota",
+    "votes": 99168,
+    "total": 308133,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1992",
+    "state": "Ohio",
+    "votes": 1984942,
+    "total": 4939967,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1992",
+    "state": "Ohio",
+    "votes": 1894310,
+    "total": 4939967,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1992",
+    "state": "Oklahoma",
+    "votes": 592929,
+    "total": 1390359,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1992",
+    "state": "Oklahoma",
+    "votes": 473066,
+    "total": 1390359,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1992",
+    "state": "Oregon",
+    "votes": 621314,
+    "total": 1462643,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1992",
+    "state": "Oregon",
+    "votes": 475757,
+    "total": 1462643,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1992",
+    "state": "Pennsylvania",
+    "votes": 2239164,
+    "total": 4959810,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1992",
+    "state": "Pennsylvania",
+    "votes": 1791841,
+    "total": 4959810,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1992",
+    "state": "Rhode Island",
+    "votes": 213299,
+    "total": 453365,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1992",
+    "state": "Rhode Island",
+    "votes": 131601,
+    "total": 453365,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1992",
+    "state": "South Carolina",
+    "votes": 577507,
+    "total": 1202527,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1992",
+    "state": "South Carolina",
+    "votes": 479514,
+    "total": 1202527,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1992",
+    "state": "South Dakota",
+    "votes": 136718,
+    "total": 336254,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1992",
+    "state": "South Dakota",
+    "votes": 124888,
+    "total": 336254,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1992",
+    "state": "Tennessee",
+    "votes": 933521,
+    "total": 1982638,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1992",
+    "state": "Tennessee",
+    "votes": 841300,
+    "total": 1982638,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1992",
+    "state": "Texas",
+    "votes": 2496071,
+    "total": 6154018,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1992",
+    "state": "Texas",
+    "votes": 2281815,
+    "total": 6154018,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1992",
+    "state": "Utah",
+    "votes": 322632,
+    "total": 743998,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1992",
+    "state": "Utah",
+    "votes": 183429,
+    "total": 743998,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1992",
+    "state": "Vermont",
+    "votes": 133592,
+    "total": 289701,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1992",
+    "state": "Vermont",
+    "votes": 88122,
+    "total": 289701,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1992",
+    "state": "Virginia",
+    "votes": 1150517,
+    "total": 2559129,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1992",
+    "state": "Virginia",
+    "votes": 1038650,
+    "total": 2559129,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1992",
+    "state": "Washington",
+    "votes": 993037,
+    "total": 2287565,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1992",
+    "state": "Washington",
+    "votes": 731234,
+    "total": 2287565,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1992",
+    "state": "West Virginia",
+    "votes": 331001,
+    "total": 683677,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1992",
+    "state": "West Virginia",
+    "votes": 241974,
+    "total": 683677,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1992",
+    "state": "Wisconsin",
+    "votes": 1041066,
+    "total": 2531064,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1992",
+    "state": "Wisconsin",
+    "votes": 930855,
+    "total": 2531064,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1992",
+    "state": "Wyoming",
+    "votes": 79347,
+    "total": 199884,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1992",
+    "state": "Wyoming",
+    "votes": 68160,
+    "total": 199884,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1996",
+    "state": "Alabama",
+    "votes": 769044,
+    "total": 1534349,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1996",
+    "state": "Alabama",
+    "votes": 662165,
+    "total": 1534349,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1996",
+    "state": "Alaska",
+    "votes": 122746,
+    "total": 241620,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1996",
+    "state": "Alaska",
+    "votes": 80380,
+    "total": 241620,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1996",
+    "state": "Arizona",
+    "votes": 653288,
+    "total": 1404405,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1996",
+    "state": "Arizona",
+    "votes": 622073,
+    "total": 1404405,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1996",
+    "state": "Arkansas",
+    "votes": 475171,
+    "total": 884262,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1996",
+    "state": "Arkansas",
+    "votes": 325416,
+    "total": 884262,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1996",
+    "state": "California",
+    "votes": 5119835,
+    "total": 10019469,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1996",
+    "state": "California",
+    "votes": 3828381,
+    "total": 10019469,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1996",
+    "state": "Colorado",
+    "votes": 691848,
+    "total": 1510702,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1996",
+    "state": "Colorado",
+    "votes": 671152,
+    "total": 1510702,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1996",
+    "state": "Connecticut",
+    "votes": 735740,
+    "total": 1392614,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1996",
+    "state": "Connecticut",
+    "votes": 483109,
+    "total": 1392614,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1996",
+    "state": "Delaware",
+    "votes": 140355,
+    "total": 270810,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1996",
+    "state": "Delaware",
+    "votes": 99062,
+    "total": 270810,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1996",
+    "state": "District Of Columbia",
+    "votes": 158220,
+    "total": 185726,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1996",
+    "state": "District Of Columbia",
+    "votes": 17339,
+    "total": 185726,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1996",
+    "state": "Florida",
+    "votes": 2546870,
+    "total": 5303154,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1996",
+    "state": "Florida",
+    "votes": 2244536,
+    "total": 5303154,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1996",
+    "state": "Georgia",
+    "votes": 1080843,
+    "total": 2298899,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1996",
+    "state": "Georgia",
+    "votes": 1053849,
+    "total": 2298899,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1996",
+    "state": "Hawaii",
+    "votes": 205012,
+    "total": 360120,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1996",
+    "state": "Hawaii",
+    "votes": 113943,
+    "total": 360120,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1996",
+    "state": "Idaho",
+    "votes": 256595,
+    "total": 491711,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1996",
+    "state": "Idaho",
+    "votes": 165443,
+    "total": 491711,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1996",
+    "state": "Illinois",
+    "votes": 2341744,
+    "total": 4311391,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1996",
+    "state": "Illinois",
+    "votes": 1587021,
+    "total": 4311391,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1996",
+    "state": "Indiana",
+    "votes": 1006693,
+    "total": 2135431,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1996",
+    "state": "Indiana",
+    "votes": 887424,
+    "total": 2135431,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1996",
+    "state": "Iowa",
+    "votes": 620258,
+    "total": 1234075,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1996",
+    "state": "Iowa",
+    "votes": 492644,
+    "total": 1234075,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1996",
+    "state": "Kansas",
+    "votes": 583245,
+    "total": 1074300,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1996",
+    "state": "Kansas",
+    "votes": 387659,
+    "total": 1074300,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1996",
+    "state": "Kentucky",
+    "votes": 636614,
+    "total": 1388708,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1996",
+    "state": "Kentucky",
+    "votes": 623283,
+    "total": 1388708,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1996",
+    "state": "Louisiana",
+    "votes": 927837,
+    "total": 1783959,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1996",
+    "state": "Louisiana",
+    "votes": 712586,
+    "total": 1783959,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1996",
+    "state": "Maine",
+    "votes": 312788,
+    "total": 605897,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1996",
+    "state": "Maine",
+    "votes": 186378,
+    "total": 605897,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1996",
+    "state": "Maryland",
+    "votes": 966207,
+    "total": 1780870,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1996",
+    "state": "Maryland",
+    "votes": 681530,
+    "total": 1780870,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1996",
+    "state": "Massachusetts",
+    "votes": 1571509,
+    "total": 2556459,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1996",
+    "state": "Massachusetts",
+    "votes": 718058,
+    "total": 2556459,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1996",
+    "state": "Michigan",
+    "votes": 1989653,
+    "total": 3848844,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1996",
+    "state": "Michigan",
+    "votes": 1481212,
+    "total": 3848844,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1996",
+    "state": "Minnesota",
+    "votes": 1120380,
+    "total": 2192492,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1996",
+    "state": "Minnesota",
+    "votes": 766395,
+    "total": 2192492,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1996",
+    "state": "Mississippi",
+    "votes": 439838,
+    "total": 893857,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1996",
+    "state": "Mississippi",
+    "votes": 394022,
+    "total": 893857,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1996",
+    "state": "Missouri",
+    "votes": 1025935,
+    "total": 2158065,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1996",
+    "state": "Missouri",
+    "votes": 890016,
+    "total": 2158065,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1996",
+    "state": "Montana",
+    "votes": 179652,
+    "total": 407083,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1996",
+    "state": "Montana",
+    "votes": 167922,
+    "total": 407083,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1996",
+    "state": "Nebraska",
+    "votes": 363467,
+    "total": 677415,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1996",
+    "state": "Nebraska",
+    "votes": 236761,
+    "total": 677415,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1996",
+    "state": "Nevada",
+    "votes": 203974,
+    "total": 464279,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1996",
+    "state": "Nevada",
+    "votes": 199244,
+    "total": 464279,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1996",
+    "state": "New Hampshire",
+    "votes": 246166,
+    "total": 496597,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1996",
+    "state": "New Hampshire",
+    "votes": 196486,
+    "total": 496597,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1996",
+    "state": "New Jersey",
+    "votes": 1652361,
+    "total": 3075860,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1996",
+    "state": "New Jersey",
+    "votes": 1103099,
+    "total": 3075860,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1996",
+    "state": "New Mexico",
+    "votes": 273495,
+    "total": 556074,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1996",
+    "state": "New Mexico",
+    "votes": 232751,
+    "total": 556074,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1996",
+    "state": "New York",
+    "votes": 3649630,
+    "total": 6439129,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1996",
+    "state": "New York",
+    "votes": 1738707,
+    "total": 6439129,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1996",
+    "state": "North Carolina",
+    "votes": 1225938,
+    "total": 2515807,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1996",
+    "state": "North Carolina",
+    "votes": 1107849,
+    "total": 2515807,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1996",
+    "state": "North Dakota",
+    "votes": 125050,
+    "total": 266411,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1996",
+    "state": "North Dakota",
+    "votes": 106905,
+    "total": 266411,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1996",
+    "state": "Ohio",
+    "votes": 2148222,
+    "total": 4534434,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1996",
+    "state": "Ohio",
+    "votes": 1859883,
+    "total": 4534434,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1996",
+    "state": "Oklahoma",
+    "votes": 582315,
+    "total": 1206713,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1996",
+    "state": "Oklahoma",
+    "votes": 488105,
+    "total": 1206713,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1996",
+    "state": "Oregon",
+    "votes": 649641,
+    "total": 1377760,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1996",
+    "state": "Oregon",
+    "votes": 538152,
+    "total": 1377760,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1996",
+    "state": "Pennsylvania",
+    "votes": 2215819,
+    "total": 4501307,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1996",
+    "state": "Pennsylvania",
+    "votes": 1801169,
+    "total": 4501307,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1996",
+    "state": "Rhode Island",
+    "votes": 233050,
+    "total": 390247,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1996",
+    "state": "Rhode Island",
+    "votes": 104683,
+    "total": 390247,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1996",
+    "state": "South Carolina",
+    "votes": 573339,
+    "total": 1150182,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1996",
+    "state": "South Carolina",
+    "votes": 506152,
+    "total": 1150182,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1996",
+    "state": "South Dakota",
+    "votes": 150543,
+    "total": 323826,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1996",
+    "state": "South Dakota",
+    "votes": 139333,
+    "total": 323826,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1996",
+    "state": "Tennessee",
+    "votes": 909146,
+    "total": 1894105,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1996",
+    "state": "Tennessee",
+    "votes": 863530,
+    "total": 1894105,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1996",
+    "state": "Texas",
+    "votes": 2736167,
+    "total": 5611644,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1996",
+    "state": "Texas",
+    "votes": 2459683,
+    "total": 5611644,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1996",
+    "state": "Utah",
+    "votes": 361911,
+    "total": 665629,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1996",
+    "state": "Utah",
+    "votes": 221633,
+    "total": 665629,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1996",
+    "state": "Vermont",
+    "votes": 137894,
+    "total": 258449,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1996",
+    "state": "Vermont",
+    "votes": 80352,
+    "total": 258449,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1996",
+    "state": "Virginia",
+    "votes": 1138350,
+    "total": 2416642,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1996",
+    "state": "Virginia",
+    "votes": 1091060,
+    "total": 2416642,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1996",
+    "state": "Washington",
+    "votes": 1123323,
+    "total": 2253837,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1996",
+    "state": "Washington",
+    "votes": 840712,
+    "total": 2253837,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1996",
+    "state": "West Virginia",
+    "votes": 327812,
+    "total": 636459,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1996",
+    "state": "West Virginia",
+    "votes": 233946,
+    "total": 636459,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1996",
+    "state": "Wisconsin",
+    "votes": 1071971,
+    "total": 2196169,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "1996",
+    "state": "Wisconsin",
+    "votes": 845029,
+    "total": 2196169,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1996",
+    "state": "Wyoming",
+    "votes": 105388,
+    "total": 211571,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "1996",
+    "state": "Wyoming",
+    "votes": 77934,
+    "total": 211571,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2000",
+    "state": "Alabama",
+    "votes": 941173,
+    "total": 1666272,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2000",
+    "state": "Alabama",
+    "votes": 692611,
+    "total": 1666272,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2000",
+    "state": "Alaska",
+    "votes": 167398,
+    "total": 285560,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2000",
+    "state": "Alaska",
+    "votes": 79004,
+    "total": 285560,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2000",
+    "state": "Arizona",
+    "votes": 781652,
+    "total": 1532016,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2000",
+    "state": "Arizona",
+    "votes": 685341,
+    "total": 1532016,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2000",
+    "state": "Arkansas",
+    "votes": 472940,
+    "total": 921781,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2000",
+    "state": "Arkansas",
+    "votes": 422768,
+    "total": 921781,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2000",
+    "state": "California",
+    "votes": 5861203,
+    "total": 10965822,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2000",
+    "state": "California",
+    "votes": 4567429,
+    "total": 10965822,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2000",
+    "state": "Colorado",
+    "votes": 883748,
+    "total": 1741368,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2000",
+    "state": "Colorado",
+    "votes": 738227,
+    "total": 1741368,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2000",
+    "state": "Connecticut",
+    "votes": 816015,
+    "total": 1459525,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2000",
+    "state": "Connecticut",
+    "votes": 561094,
+    "total": 1459525,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2000",
+    "state": "Delaware",
+    "votes": 180068,
+    "total": 327529,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2000",
+    "state": "Delaware",
+    "votes": 137288,
+    "total": 327529,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2000",
+    "state": "District Of Columbia",
+    "votes": 171923,
+    "total": 201894,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2000",
+    "state": "District Of Columbia",
+    "votes": 18073,
+    "total": 201894,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2000",
+    "state": "Florida",
+    "votes": 2912790,
+    "total": 5963110,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2000",
+    "state": "Florida",
+    "votes": 2912253,
+    "total": 5963110,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2000",
+    "state": "Georgia",
+    "votes": 1419720,
+    "total": 2583208,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2000",
+    "state": "Georgia",
+    "votes": 1116230,
+    "total": 2583208,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2000",
+    "state": "Hawaii",
+    "votes": 205286,
+    "total": 367951,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2000",
+    "state": "Hawaii",
+    "votes": 137845,
+    "total": 367951,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2000",
+    "state": "Idaho",
+    "votes": 336937,
+    "total": 501615,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2000",
+    "state": "Idaho",
+    "votes": 138637,
+    "total": 501615,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2000",
+    "state": "Illinois",
+    "votes": 2589026,
+    "total": 4742108,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2000",
+    "state": "Illinois",
+    "votes": 2019421,
+    "total": 4742108,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2000",
+    "state": "Indiana",
+    "votes": 1245836,
+    "total": 2199302,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2000",
+    "state": "Indiana",
+    "votes": 901980,
+    "total": 2199302,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2000",
+    "state": "Iowa",
+    "votes": 638517,
+    "total": 1353022,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2000",
+    "state": "Iowa",
+    "votes": 634373,
+    "total": 1353022,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2000",
+    "state": "Kansas",
+    "votes": 622332,
+    "total": 1072216,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2000",
+    "state": "Kansas",
+    "votes": 399276,
+    "total": 1072216,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2000",
+    "state": "Kentucky",
+    "votes": 872520,
+    "total": 1544106,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2000",
+    "state": "Kentucky",
+    "votes": 638923,
+    "total": 1544106,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2000",
+    "state": "Louisiana",
+    "votes": 927871,
+    "total": 1765656,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2000",
+    "state": "Louisiana",
+    "votes": 792344,
+    "total": 1765656,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2000",
+    "state": "Maine",
+    "votes": 319951,
+    "total": 651817,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2000",
+    "state": "Maine",
+    "votes": 286616,
+    "total": 651817,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2000",
+    "state": "Maryland",
+    "votes": 1144008,
+    "total": 2025212,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2000",
+    "state": "Maryland",
+    "votes": 813827,
+    "total": 2025212,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2000",
+    "state": "Massachusetts",
+    "votes": 1616487,
+    "total": 2733964,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2000",
+    "state": "Massachusetts",
+    "votes": 878502,
+    "total": 2733964,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2000",
+    "state": "Michigan",
+    "votes": 2170418,
+    "total": 4232501,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2000",
+    "state": "Michigan",
+    "votes": 1953139,
+    "total": 4232501,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2000",
+    "state": "Minnesota",
+    "votes": 1109659,
+    "total": 2438685,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2000",
+    "state": "Mississippi",
+    "votes": 572844,
+    "total": 994184,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2000",
+    "state": "Mississippi",
+    "votes": 404614,
+    "total": 994184,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2000",
+    "state": "Missouri",
+    "votes": 1189924,
+    "total": 2359892,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2000",
+    "state": "Missouri",
+    "votes": 1111138,
+    "total": 2359892,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2000",
+    "state": "Montana",
+    "votes": 240178,
+    "total": 410986,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2000",
+    "state": "Montana",
+    "votes": 137126,
+    "total": 410986,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2000",
+    "state": "Nebraska",
+    "votes": 433862,
+    "total": 697019,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2000",
+    "state": "Nebraska",
+    "votes": 231780,
+    "total": 697019,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2000",
+    "state": "Nevada",
+    "votes": 301575,
+    "total": 609426,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2000",
+    "state": "Nevada",
+    "votes": 279978,
+    "total": 609426,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2000",
+    "state": "New Hampshire",
+    "votes": 273559,
+    "total": 569081,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2000",
+    "state": "New Hampshire",
+    "votes": 266348,
+    "total": 569081,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2000",
+    "state": "New Jersey",
+    "votes": 1788850,
+    "total": 3187226,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2000",
+    "state": "New Jersey",
+    "votes": 1284173,
+    "total": 3187226,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2000",
+    "state": "New Mexico",
+    "votes": 286783,
+    "total": 598605,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2000",
+    "state": "New Mexico",
+    "votes": 286417,
+    "total": 598605,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2000",
+    "state": "New York",
+    "votes": 3942215,
+    "total": 6960215,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2000",
+    "state": "New York",
+    "votes": 2258577,
+    "total": 6960215,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2000",
+    "state": "North Carolina",
+    "votes": 1631163,
+    "total": 2914990,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2000",
+    "state": "North Carolina",
+    "votes": 1257692,
+    "total": 2914990,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2000",
+    "state": "North Dakota",
+    "votes": 174852,
+    "total": 288256,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2000",
+    "state": "North Dakota",
+    "votes": 95284,
+    "total": 288256,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2000",
+    "state": "Ohio",
+    "votes": 2350363,
+    "total": 4701998,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2000",
+    "state": "Ohio",
+    "votes": 2183628,
+    "total": 4701998,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2000",
+    "state": "Oklahoma",
+    "votes": 744337,
+    "total": 1234229,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2000",
+    "state": "Oklahoma",
+    "votes": 474276,
+    "total": 1234229,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2000",
+    "state": "Oregon",
+    "votes": 720342,
+    "total": 1533950,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2000",
+    "state": "Oregon",
+    "votes": 713577,
+    "total": 1533950,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2000",
+    "state": "Pennsylvania",
+    "votes": 2485967,
+    "total": 4912185,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2000",
+    "state": "Pennsylvania",
+    "votes": 2281127,
+    "total": 4912185,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2000",
+    "state": "Rhode Island",
+    "votes": 249508,
+    "total": 409112,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2000",
+    "state": "Rhode Island",
+    "votes": 130555,
+    "total": 409112,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2000",
+    "state": "South Carolina",
+    "votes": 786892,
+    "total": 1383902,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2000",
+    "state": "South Carolina",
+    "votes": 566037,
+    "total": 1383902,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2000",
+    "state": "South Dakota",
+    "votes": 190700,
+    "total": 316269,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2000",
+    "state": "South Dakota",
+    "votes": 118804,
+    "total": 316269,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2000",
+    "state": "Tennessee",
+    "votes": 1061949,
+    "total": 2076181,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2000",
+    "state": "Tennessee",
+    "votes": 981720,
+    "total": 2076181,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2000",
+    "state": "Texas",
+    "votes": 3799639,
+    "total": 6407637,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2000",
+    "state": "Texas",
+    "votes": 2433746,
+    "total": 6407637,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2000",
+    "state": "Utah",
+    "votes": 515096,
+    "total": 770754,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2000",
+    "state": "Utah",
+    "votes": 203053,
+    "total": 770754,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2000",
+    "state": "Vermont",
+    "votes": 149022,
+    "total": 294308,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2000",
+    "state": "Vermont",
+    "votes": 119775,
+    "total": 294308,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2000",
+    "state": "Virginia",
+    "votes": 1437490,
+    "total": 2739447,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2000",
+    "state": "Virginia",
+    "votes": 1217290,
+    "total": 2739447,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2000",
+    "state": "Washington",
+    "votes": 1247652,
+    "total": 2487433,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2000",
+    "state": "Washington",
+    "votes": 1108864,
+    "total": 2487433,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2000",
+    "state": "West Virginia",
+    "votes": 336475,
+    "total": 648124,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2000",
+    "state": "West Virginia",
+    "votes": 295497,
+    "total": 648124,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2000",
+    "state": "Wisconsin",
+    "votes": 1242987,
+    "total": 2598607,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2000",
+    "state": "Wisconsin",
+    "votes": 1237279,
+    "total": 2598607,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2000",
+    "state": "Wyoming",
+    "votes": 147947,
+    "total": 213726,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2000",
+    "state": "Wyoming",
+    "votes": 60481,
+    "total": 213726,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2004",
+    "state": "Alabama",
+    "votes": 1176394,
+    "total": 1883415,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2004",
+    "state": "Alabama",
+    "votes": 693933,
+    "total": 1883415,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2004",
+    "state": "Alaska",
+    "votes": 190889,
+    "total": 312598,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2004",
+    "state": "Alaska",
+    "votes": 111025,
+    "total": 312598,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2004",
+    "state": "Arizona",
+    "votes": 1104294,
+    "total": 2012585,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2004",
+    "state": "Arizona",
+    "votes": 893524,
+    "total": 2012585,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2004",
+    "state": "Arkansas",
+    "votes": 572898,
+    "total": 1054945,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2004",
+    "state": "Arkansas",
+    "votes": 469953,
+    "total": 1054945,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2004",
+    "state": "California",
+    "votes": 6745485,
+    "total": 12421353,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2004",
+    "state": "California",
+    "votes": 5509826,
+    "total": 12421353,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2004",
+    "state": "Colorado",
+    "votes": 1101255,
+    "total": 2129630,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2004",
+    "state": "Colorado",
+    "votes": 1001732,
+    "total": 2129630,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2004",
+    "state": "Connecticut",
+    "votes": 857488,
+    "total": 1578769,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2004",
+    "state": "Connecticut",
+    "votes": 693826,
+    "total": 1578769,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2004",
+    "state": "Delaware",
+    "votes": 200152,
+    "total": 375190,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2004",
+    "state": "Delaware",
+    "votes": 171660,
+    "total": 375190,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2004",
+    "state": "District Of Columbia",
+    "votes": 202970,
+    "total": 227586,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2004",
+    "state": "District Of Columbia",
+    "votes": 21256,
+    "total": 227586,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2004",
+    "state": "Florida",
+    "votes": 3964522,
+    "total": 7609810,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2004",
+    "state": "Florida",
+    "votes": 3583544,
+    "total": 7609810,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2004",
+    "state": "Georgia",
+    "votes": 1914254,
+    "total": 3301875,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2004",
+    "state": "Georgia",
+    "votes": 1366149,
+    "total": 3301875,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2004",
+    "state": "Hawaii",
+    "votes": 231708,
+    "total": 429013,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2004",
+    "state": "Hawaii",
+    "votes": 194191,
+    "total": 429013,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2004",
+    "state": "Idaho",
+    "votes": 409235,
+    "total": 598376,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2004",
+    "state": "Idaho",
+    "votes": 181098,
+    "total": 598376,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2004",
+    "state": "Illinois",
+    "votes": 2891550,
+    "total": 5274322,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2004",
+    "state": "Illinois",
+    "votes": 2345946,
+    "total": 5274322,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2004",
+    "state": "Indiana",
+    "votes": 1479438,
+    "total": 2468002,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2004",
+    "state": "Indiana",
+    "votes": 969011,
+    "total": 2468002,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2004",
+    "state": "Iowa",
+    "votes": 751957,
+    "total": 1506908,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2004",
+    "state": "Iowa",
+    "votes": 741898,
+    "total": 1506908,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2004",
+    "state": "Kansas",
+    "votes": 736456,
+    "total": 1187756,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2004",
+    "state": "Kansas",
+    "votes": 434993,
+    "total": 1187756,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2004",
+    "state": "Kentucky",
+    "votes": 1069439,
+    "total": 1795882,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2004",
+    "state": "Kentucky",
+    "votes": 712733,
+    "total": 1795882,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2004",
+    "state": "Louisiana",
+    "votes": 1102169,
+    "total": 1943106,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2004",
+    "state": "Louisiana",
+    "votes": 820299,
+    "total": 1943106,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2004",
+    "state": "Maine",
+    "votes": 396842,
+    "total": 740752,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2004",
+    "state": "Maine",
+    "votes": 330201,
+    "total": 740752,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2004",
+    "state": "Maryland",
+    "votes": 1334493,
+    "total": 2384238,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2004",
+    "state": "Maryland",
+    "votes": 1024703,
+    "total": 2384238,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2004",
+    "state": "Maryland",
+    "votes": 7,
+    "total": 2384238,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2004",
+    "state": "Massachusetts",
+    "votes": 1803800,
+    "total": 2927455,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2004",
+    "state": "Massachusetts",
+    "votes": 1071109,
+    "total": 2927455,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2004",
+    "state": "Michigan",
+    "votes": 2479183,
+    "total": 4839252,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2004",
+    "state": "Michigan",
+    "votes": 2313746,
+    "total": 4839252,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2004",
+    "state": "Minnesota",
+    "votes": 1346695,
+    "total": 2828387,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2004",
+    "state": "Mississippi",
+    "votes": 672660,
+    "total": 1139824,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2004",
+    "state": "Mississippi",
+    "votes": 457766,
+    "total": 1139824,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2004",
+    "state": "Missouri",
+    "votes": 1455713,
+    "total": 2731364,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2004",
+    "state": "Missouri",
+    "votes": 1259171,
+    "total": 2731364,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2004",
+    "state": "Montana",
+    "votes": 266063,
+    "total": 450434,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2004",
+    "state": "Montana",
+    "votes": 173710,
+    "total": 450434,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2004",
+    "state": "Nebraska",
+    "votes": 512814,
+    "total": 778186,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2004",
+    "state": "Nebraska",
+    "votes": 254328,
+    "total": 778186,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2004",
+    "state": "Nevada",
+    "votes": 418690,
+    "total": 829587,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2004",
+    "state": "Nevada",
+    "votes": 397190,
+    "total": 829587,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2004",
+    "state": "New Hampshire",
+    "votes": 340511,
+    "total": 678287,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2004",
+    "state": "New Hampshire",
+    "votes": 331237,
+    "total": 678287,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2004",
+    "state": "New Jersey",
+    "votes": 1911430,
+    "total": 3611691,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2004",
+    "state": "New Jersey",
+    "votes": 1670003,
+    "total": 3611691,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2004",
+    "state": "New Mexico",
+    "votes": 376930,
+    "total": 756304,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2004",
+    "state": "New Mexico",
+    "votes": 370942,
+    "total": 756304,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2004",
+    "state": "New York",
+    "votes": 4180755,
+    "total": 7448266,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2004",
+    "state": "New York",
+    "votes": 2806993,
+    "total": 7448266,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2004",
+    "state": "North Carolina",
+    "votes": 1961166,
+    "total": 3501007,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2004",
+    "state": "North Carolina",
+    "votes": 1525849,
+    "total": 3501007,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2004",
+    "state": "North Dakota",
+    "votes": 196651,
+    "total": 312833,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2004",
+    "state": "North Dakota",
+    "votes": 111052,
+    "total": 312833,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2004",
+    "state": "Ohio",
+    "votes": 2859764,
+    "total": 5627903,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2004",
+    "state": "Ohio",
+    "votes": 2741165,
+    "total": 5627903,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2004",
+    "state": "Oklahoma",
+    "votes": 959792,
+    "total": 1463758,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2004",
+    "state": "Oklahoma",
+    "votes": 503966,
+    "total": 1463758,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2004",
+    "state": "Oregon",
+    "votes": 943163,
+    "total": 1836782,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2004",
+    "state": "Oregon",
+    "votes": 866831,
+    "total": 1836782,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2004",
+    "state": "Pennsylvania",
+    "votes": 2938095,
+    "total": 5769590,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2004",
+    "state": "Pennsylvania",
+    "votes": 2793847,
+    "total": 5769590,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2004",
+    "state": "Rhode Island",
+    "votes": 259760,
+    "total": 437134,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2004",
+    "state": "Rhode Island",
+    "votes": 169046,
+    "total": 437134,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2004",
+    "state": "South Carolina",
+    "votes": 937974,
+    "total": 1617700,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2004",
+    "state": "South Carolina",
+    "votes": 661669,
+    "total": 1617700,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2004",
+    "state": "South Dakota",
+    "votes": 232584,
+    "total": 388215,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2004",
+    "state": "South Dakota",
+    "votes": 149244,
+    "total": 388215,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2004",
+    "state": "Tennessee",
+    "votes": 1384375,
+    "total": 2437319,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2004",
+    "state": "Tennessee",
+    "votes": 1036477,
+    "total": 2437319,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2004",
+    "state": "Texas",
+    "votes": 4526917,
+    "total": 7410749,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2004",
+    "state": "Texas",
+    "votes": 2832704,
+    "total": 7410749,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2004",
+    "state": "Utah",
+    "votes": 663742,
+    "total": 927844,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2004",
+    "state": "Utah",
+    "votes": 241199,
+    "total": 927844,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2004",
+    "state": "Vermont",
+    "votes": 184067,
+    "total": 312309,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2004",
+    "state": "Vermont",
+    "votes": 121180,
+    "total": 312309,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2004",
+    "state": "Virginia",
+    "votes": 1716959,
+    "total": 3195415,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2004",
+    "state": "Virginia",
+    "votes": 1454742,
+    "total": 3195415,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2004",
+    "state": "Washington",
+    "votes": 1510201,
+    "total": 2859084,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2004",
+    "state": "Washington",
+    "votes": 1304894,
+    "total": 2859084,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2004",
+    "state": "West Virginia",
+    "votes": 423778,
+    "total": 755792,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2004",
+    "state": "West Virginia",
+    "votes": 326541,
+    "total": 755792,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2004",
+    "state": "Wisconsin",
+    "votes": 1489504,
+    "total": 2997007,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2004",
+    "state": "Wisconsin",
+    "votes": 1478120,
+    "total": 2997007,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2004",
+    "state": "Wyoming",
+    "votes": 167629,
+    "total": 243861,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2004",
+    "state": "Wyoming",
+    "votes": 70776,
+    "total": 243861,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2008",
+    "state": "Alabama",
+    "votes": 1266546,
+    "total": 2099819,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2008",
+    "state": "Alabama",
+    "votes": 813479,
+    "total": 2099819,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2008",
+    "state": "Alaska",
+    "votes": 193841,
+    "total": 326197,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2008",
+    "state": "Alaska",
+    "votes": 123594,
+    "total": 326197,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2008",
+    "state": "Arizona",
+    "votes": 1230111,
+    "total": 2293475,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2008",
+    "state": "Arizona",
+    "votes": 1034707,
+    "total": 2293475,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2008",
+    "state": "Arkansas",
+    "votes": 638017,
+    "total": 1086617,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2008",
+    "state": "Arkansas",
+    "votes": 422310,
+    "total": 1086617,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2008",
+    "state": "California",
+    "votes": 8274473,
+    "total": 13561900,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2008",
+    "state": "California",
+    "votes": 5011781,
+    "total": 13561900,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2008",
+    "state": "Colorado",
+    "votes": 1288576,
+    "total": 2401361,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2008",
+    "state": "Colorado",
+    "votes": 1073589,
+    "total": 2401361,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2008",
+    "state": "Connecticut",
+    "votes": 997772,
+    "total": 1646792,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2008",
+    "state": "Connecticut",
+    "votes": 629428,
+    "total": 1646792,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2008",
+    "state": "Delaware",
+    "votes": 255459,
+    "total": 412412,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2008",
+    "state": "Delaware",
+    "votes": 152374,
+    "total": 412412,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2008",
+    "state": "District Of Columbia",
+    "votes": 245800,
+    "total": 265853,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2008",
+    "state": "District Of Columbia",
+    "votes": 17367,
+    "total": 265853,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2008",
+    "state": "Florida",
+    "votes": 4282074,
+    "total": 8390744,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2008",
+    "state": "Florida",
+    "votes": 4045624,
+    "total": 8390744,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2008",
+    "state": "Georgia",
+    "votes": 2048759,
+    "total": 3924486,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2008",
+    "state": "Georgia",
+    "votes": 1844123,
+    "total": 3924486,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2008",
+    "state": "Hawaii",
+    "votes": 325871,
+    "total": 456064,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2008",
+    "state": "Hawaii",
+    "votes": 120566,
+    "total": 456064,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2008",
+    "state": "Idaho",
+    "votes": 403012,
+    "total": 655122,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2008",
+    "state": "Idaho",
+    "votes": 236440,
+    "total": 655122,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2008",
+    "state": "Illinois",
+    "votes": 3419348,
+    "total": 5522371,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2008",
+    "state": "Illinois",
+    "votes": 2031179,
+    "total": 5522371,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2008",
+    "state": "Indiana",
+    "votes": 1374039,
+    "total": 2751054,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2008",
+    "state": "Indiana",
+    "votes": 1345648,
+    "total": 2751054,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2008",
+    "state": "Iowa",
+    "votes": 828940,
+    "total": 1537123,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2008",
+    "state": "Iowa",
+    "votes": 682379,
+    "total": 1537123,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2008",
+    "state": "Kansas",
+    "votes": 699655,
+    "total": 1235872,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2008",
+    "state": "Kansas",
+    "votes": 514765,
+    "total": 1235872,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2008",
+    "state": "Kentucky",
+    "votes": 1048462,
+    "total": 1826620,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2008",
+    "state": "Kentucky",
+    "votes": 751985,
+    "total": 1826620,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2008",
+    "state": "Louisiana",
+    "votes": 1148275,
+    "total": 1960761,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2008",
+    "state": "Louisiana",
+    "votes": 782989,
+    "total": 1960761,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2008",
+    "state": "Maine",
+    "votes": 421923,
+    "total": 731163,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2008",
+    "state": "Maine",
+    "votes": 295273,
+    "total": 731163,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2008",
+    "state": "Maryland",
+    "votes": 1629467,
+    "total": 2631596,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2008",
+    "state": "Maryland",
+    "votes": 959862,
+    "total": 2631596,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2008",
+    "state": "Massachusetts",
+    "votes": 1904097,
+    "total": 3102995,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2008",
+    "state": "Massachusetts",
+    "votes": 1108854,
+    "total": 3102995,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2008",
+    "state": "Michigan",
+    "votes": 2872579,
+    "total": 5001596,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2008",
+    "state": "Michigan",
+    "votes": 2048639,
+    "total": 5001596,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2008",
+    "state": "Minnesota",
+    "votes": 1573354,
+    "total": 2910369,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2008",
+    "state": "Minnesota",
+    "votes": 1275409,
+    "total": 2910369,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2008",
+    "state": "Mississippi",
+    "votes": 724597,
+    "total": 1289865,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2008",
+    "state": "Mississippi",
+    "votes": 554662,
+    "total": 1289865,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2008",
+    "state": "Missouri",
+    "votes": 1445814,
+    "total": 2925205,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2008",
+    "state": "Missouri",
+    "votes": 1441911,
+    "total": 2925205,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2008",
+    "state": "Montana",
+    "votes": 242763,
+    "total": 490109,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2008",
+    "state": "Montana",
+    "votes": 231667,
+    "total": 490109,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2008",
+    "state": "Nebraska",
+    "votes": 452979,
+    "total": 801281,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2008",
+    "state": "Nebraska",
+    "votes": 333319,
+    "total": 801281,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2008",
+    "state": "Nevada",
+    "votes": 533736,
+    "total": 967848,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2008",
+    "state": "Nevada",
+    "votes": 412827,
+    "total": 967848,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2008",
+    "state": "New Hampshire",
+    "votes": 384826,
+    "total": 710970,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2008",
+    "state": "New Hampshire",
+    "votes": 316534,
+    "total": 710970,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2008",
+    "state": "New Jersey",
+    "votes": 2215422,
+    "total": 3868237,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2008",
+    "state": "New Jersey",
+    "votes": 1613207,
+    "total": 3868237,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2008",
+    "state": "New Mexico",
+    "votes": 472422,
+    "total": 830158,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2008",
+    "state": "New Mexico",
+    "votes": 346832,
+    "total": 830158,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2008",
+    "state": "New York",
+    "votes": 4645332,
+    "total": 7722019,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2008",
+    "state": "New York",
+    "votes": 2418323,
+    "total": 7722019,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2008",
+    "state": "North Carolina",
+    "votes": 2142651,
+    "total": 4310851,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2008",
+    "state": "North Carolina",
+    "votes": 2128474,
+    "total": 4310851,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2008",
+    "state": "North Dakota",
+    "votes": 168601,
+    "total": 316621,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2008",
+    "state": "North Dakota",
+    "votes": 141278,
+    "total": 316621,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2008",
+    "state": "Ohio",
+    "votes": 2940044,
+    "total": 5708350,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2008",
+    "state": "Ohio",
+    "votes": 2677820,
+    "total": 5708350,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2008",
+    "state": "Oklahoma",
+    "votes": 960165,
+    "total": 1462661,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2008",
+    "state": "Oklahoma",
+    "votes": 502496,
+    "total": 1462661,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2008",
+    "state": "Oregon",
+    "votes": 1037291,
+    "total": 1827864,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2008",
+    "state": "Oregon",
+    "votes": 738475,
+    "total": 1827864,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2008",
+    "state": "Pennsylvania",
+    "votes": 3276363,
+    "total": 6013272,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2008",
+    "state": "Pennsylvania",
+    "votes": 2655885,
+    "total": 6013272,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2008",
+    "state": "Rhode Island",
+    "votes": 296571,
+    "total": 471766,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2008",
+    "state": "Rhode Island",
+    "votes": 165391,
+    "total": 471766,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2008",
+    "state": "South Carolina",
+    "votes": 1034896,
+    "total": 1920969,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2008",
+    "state": "South Carolina",
+    "votes": 862449,
+    "total": 1920969,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2008",
+    "state": "South Dakota",
+    "votes": 203054,
+    "total": 381975,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2008",
+    "state": "South Dakota",
+    "votes": 170924,
+    "total": 381975,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2008",
+    "state": "Tennessee",
+    "votes": 1479178,
+    "total": 2599749,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2008",
+    "state": "Tennessee",
+    "votes": 1087437,
+    "total": 2599749,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2008",
+    "state": "Texas",
+    "votes": 4479328,
+    "total": 8077795,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2008",
+    "state": "Texas",
+    "votes": 3528633,
+    "total": 8077795,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2008",
+    "state": "Utah",
+    "votes": 596030,
+    "total": 952370,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2008",
+    "state": "Utah",
+    "votes": 327670,
+    "total": 952370,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2008",
+    "state": "Vermont",
+    "votes": 219262,
+    "total": 325046,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2008",
+    "state": "Vermont",
+    "votes": 98974,
+    "total": 325046,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2008",
+    "state": "Virginia",
+    "votes": 1959532,
+    "total": 3723260,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2008",
+    "state": "Virginia",
+    "votes": 1725005,
+    "total": 3723260,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2008",
+    "state": "Washington",
+    "votes": 1750848,
+    "total": 3036878,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2008",
+    "state": "Washington",
+    "votes": 1229216,
+    "total": 3036878,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2008",
+    "state": "West Virginia",
+    "votes": 397466,
+    "total": 713451,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2008",
+    "state": "West Virginia",
+    "votes": 303857,
+    "total": 713451,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2008",
+    "state": "Wisconsin",
+    "votes": 1677211,
+    "total": 2983417,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2008",
+    "state": "Wisconsin",
+    "votes": 1262393,
+    "total": 2983417,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2008",
+    "state": "Wyoming",
+    "votes": 164958,
+    "total": 254904,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2008",
+    "state": "Wyoming",
+    "votes": 82868,
+    "total": 254904,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2012",
+    "state": "Alabama",
+    "votes": 1255925,
+    "total": 2074338,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2012",
+    "state": "Alabama",
+    "votes": 795696,
+    "total": 2074338,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2012",
+    "state": "Alaska",
+    "votes": 164676,
+    "total": 300495,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2012",
+    "state": "Alaska",
+    "votes": 122640,
+    "total": 300495,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2012",
+    "state": "Arizona",
+    "votes": 1233654,
+    "total": 2299254,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2012",
+    "state": "Arizona",
+    "votes": 1025232,
+    "total": 2299254,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2012",
+    "state": "Arkansas",
+    "votes": 647744,
+    "total": 1069468,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2012",
+    "state": "Arkansas",
+    "votes": 394409,
+    "total": 1069468,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2012",
+    "state": "California",
+    "votes": 7854285,
+    "total": 13038547,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2012",
+    "state": "California",
+    "votes": 4839958,
+    "total": 13038547,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2012",
+    "state": "Colorado",
+    "votes": 1323101,
+    "total": 2569516,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2012",
+    "state": "Colorado",
+    "votes": 1185243,
+    "total": 2569516,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2012",
+    "state": "Connecticut",
+    "votes": 905083,
+    "total": 1558204,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2012",
+    "state": "Connecticut",
+    "votes": 634892,
+    "total": 1558204,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2012",
+    "state": "Delaware",
+    "votes": 242584,
+    "total": 413890,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2012",
+    "state": "Delaware",
+    "votes": 165484,
+    "total": 413890,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2012",
+    "state": "District Of Columbia",
+    "votes": 267070,
+    "total": 293764,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2012",
+    "state": "District Of Columbia",
+    "votes": 21381,
+    "total": 293764,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2012",
+    "state": "Florida",
+    "votes": 4237756,
+    "total": 8474179,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2012",
+    "state": "Florida",
+    "votes": 4163447,
+    "total": 8474179,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2012",
+    "state": "Georgia",
+    "votes": 2078688,
+    "total": 3897839,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2012",
+    "state": "Georgia",
+    "votes": 1773827,
+    "total": 3897839,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2012",
+    "state": "Hawaii",
+    "votes": 306658,
+    "total": 437159,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2012",
+    "state": "Hawaii",
+    "votes": 121015,
+    "total": 437159,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2012",
+    "state": "Idaho",
+    "votes": 420911,
+    "total": 652274,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2012",
+    "state": "Idaho",
+    "votes": 212787,
+    "total": 652274,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2012",
+    "state": "Illinois",
+    "votes": 3019512,
+    "total": 5242014,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2012",
+    "state": "Illinois",
+    "votes": 2135216,
+    "total": 5242014,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2012",
+    "state": "Indiana",
+    "votes": 1420543,
+    "total": 2624534,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2012",
+    "state": "Indiana",
+    "votes": 1152887,
+    "total": 2624534,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2012",
+    "state": "Iowa",
+    "votes": 822544,
+    "total": 1582180,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2012",
+    "state": "Iowa",
+    "votes": 730617,
+    "total": 1582180,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2012",
+    "state": "Kansas",
+    "votes": 692634,
+    "total": 1159971,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2012",
+    "state": "Kansas",
+    "votes": 440726,
+    "total": 1159971,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2012",
+    "state": "Kentucky",
+    "votes": 1087190,
+    "total": 1797212,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2012",
+    "state": "Kentucky",
+    "votes": 679370,
+    "total": 1797212,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2012",
+    "state": "Louisiana",
+    "votes": 1152262,
+    "total": 1994065,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2012",
+    "state": "Louisiana",
+    "votes": 809141,
+    "total": 1994065,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2012",
+    "state": "Maine",
+    "votes": 401306,
+    "total": 724758,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2012",
+    "state": "Maine",
+    "votes": 292276,
+    "total": 724758,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2012",
+    "state": "Maryland",
+    "votes": 1677844,
+    "total": 2707327,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2012",
+    "state": "Maryland",
+    "votes": 971869,
+    "total": 2707327,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2012",
+    "state": "Massachusetts",
+    "votes": 1921290,
+    "total": 3184196,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2012",
+    "state": "Massachusetts",
+    "votes": 1188314,
+    "total": 3184196,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2012",
+    "state": "Michigan",
+    "votes": 2564569,
+    "total": 4730961,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2012",
+    "state": "Michigan",
+    "votes": 2115256,
+    "total": 4730961,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2012",
+    "state": "Minnesota",
+    "votes": 1320225,
+    "total": 2936561,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2012",
+    "state": "Mississippi",
+    "votes": 710746,
+    "total": 1285584,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2012",
+    "state": "Mississippi",
+    "votes": 562949,
+    "total": 1285584,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2012",
+    "state": "Missouri",
+    "votes": 1482440,
+    "total": 2757323,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2012",
+    "state": "Missouri",
+    "votes": 1223796,
+    "total": 2757323,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2012",
+    "state": "Montana",
+    "votes": 267928,
+    "total": 484048,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2012",
+    "state": "Montana",
+    "votes": 201839,
+    "total": 484048,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2012",
+    "state": "Nebraska",
+    "votes": 475064,
+    "total": 794379,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2012",
+    "state": "Nebraska",
+    "votes": 302081,
+    "total": 794379,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2012",
+    "state": "Nevada",
+    "votes": 531373,
+    "total": 1014918,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2012",
+    "state": "Nevada",
+    "votes": 463567,
+    "total": 1014918,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2012",
+    "state": "New Hampshire",
+    "votes": 369561,
+    "total": 710972,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2012",
+    "state": "New Hampshire",
+    "votes": 329918,
+    "total": 710972,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2012",
+    "state": "New Jersey",
+    "votes": 2122786,
+    "total": 3638499,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2012",
+    "state": "New Jersey",
+    "votes": 1478088,
+    "total": 3638499,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2012",
+    "state": "New Mexico",
+    "votes": 415335,
+    "total": 783758,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2012",
+    "state": "New Mexico",
+    "votes": 335788,
+    "total": 783758,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2012",
+    "state": "New York",
+    "votes": 4324228,
+    "total": 7116784,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2012",
+    "state": "New York",
+    "votes": 2223397,
+    "total": 7116784,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2012",
+    "state": "North Carolina",
+    "votes": 2270395,
+    "total": 4505372,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2012",
+    "state": "North Carolina",
+    "votes": 2178391,
+    "total": 4505372,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2012",
+    "state": "North Dakota",
+    "votes": 188320,
+    "total": 322932,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2012",
+    "state": "North Dakota",
+    "votes": 124966,
+    "total": 322932,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2012",
+    "state": "Ohio",
+    "votes": 2827621,
+    "total": 5580822,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2012",
+    "state": "Ohio",
+    "votes": 2661407,
+    "total": 5580822,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2012",
+    "state": "Oklahoma",
+    "votes": 891325,
+    "total": 1334872,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2012",
+    "state": "Oklahoma",
+    "votes": 443547,
+    "total": 1334872,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2012",
+    "state": "Oregon",
+    "votes": 970488,
+    "total": 1789270,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2012",
+    "state": "Oregon",
+    "votes": 754175,
+    "total": 1789270,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2012",
+    "state": "Pennsylvania",
+    "votes": 2990274,
+    "total": 5742040,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2012",
+    "state": "Pennsylvania",
+    "votes": 2680434,
+    "total": 5742040,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2012",
+    "state": "Rhode Island",
+    "votes": 279677,
+    "total": 446049,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2012",
+    "state": "Rhode Island",
+    "votes": 157204,
+    "total": 446049,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2012",
+    "state": "South Carolina",
+    "votes": 1071645,
+    "total": 1964118,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2012",
+    "state": "South Carolina",
+    "votes": 865941,
+    "total": 1964118,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2012",
+    "state": "South Dakota",
+    "votes": 210610,
+    "total": 363815,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2012",
+    "state": "South Dakota",
+    "votes": 145039,
+    "total": 363815,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2012",
+    "state": "Tennessee",
+    "votes": 1462330,
+    "total": 2458577,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2012",
+    "state": "Tennessee",
+    "votes": 960709,
+    "total": 2458577,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2012",
+    "state": "Texas",
+    "votes": 4569843,
+    "total": 7993851,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2012",
+    "state": "Texas",
+    "votes": 3308124,
+    "total": 7993851,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2012",
+    "state": "Utah",
+    "votes": 740600,
+    "total": 1017440,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2012",
+    "state": "Utah",
+    "votes": 251813,
+    "total": 1017440,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2012",
+    "state": "Vermont",
+    "votes": 199239,
+    "total": 299290,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2012",
+    "state": "Vermont",
+    "votes": 92698,
+    "total": 299290,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2012",
+    "state": "Virginia",
+    "votes": 1971820,
+    "total": 3854489,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2012",
+    "state": "Virginia",
+    "votes": 1822522,
+    "total": 3854489,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2012",
+    "state": "Washington",
+    "votes": 1755396,
+    "total": 3125516,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2012",
+    "state": "Washington",
+    "votes": 1290670,
+    "total": 3125516,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2012",
+    "state": "West Virginia",
+    "votes": 417655,
+    "total": 670438,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2012",
+    "state": "West Virginia",
+    "votes": 238269,
+    "total": 670438,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2012",
+    "state": "Wisconsin",
+    "votes": 1620985,
+    "total": 3071434,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2012",
+    "state": "Wisconsin",
+    "votes": 1410966,
+    "total": 3071434,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2012",
+    "state": "Wyoming",
+    "votes": 170962,
+    "total": 250701,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2012",
+    "state": "Wyoming",
+    "votes": 69286,
+    "total": 250701,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2016",
+    "state": "Alabama",
+    "votes": 1318255,
+    "total": 2123372,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2016",
+    "state": "Alabama",
+    "votes": 729547,
+    "total": 2123372,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2016",
+    "state": "Alaska",
+    "votes": 163387,
+    "total": 318608,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2016",
+    "state": "Alaska",
+    "votes": 116454,
+    "total": 318608,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2016",
+    "state": "Arizona",
+    "votes": 1252401,
+    "total": 2573165,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2016",
+    "state": "Arizona",
+    "votes": 1161167,
+    "total": 2573165,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2016",
+    "state": "Arizona",
+    "votes": 42,
+    "total": 2573165,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2016",
+    "state": "Arkansas",
+    "votes": 684872,
+    "total": 1130635,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2016",
+    "state": "Arkansas",
+    "votes": 380494,
+    "total": 1130635,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2016",
+    "state": "California",
+    "votes": 8753788,
+    "total": 14181595,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2016",
+    "state": "California",
+    "votes": 4483810,
+    "total": 14181595,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2016",
+    "state": "Colorado",
+    "votes": 1338870,
+    "total": 2780220,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2016",
+    "state": "Colorado",
+    "votes": 1202484,
+    "total": 2780220,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2016",
+    "state": "Connecticut",
+    "votes": 897572,
+    "total": 1644920,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2016",
+    "state": "Connecticut",
+    "votes": 673215,
+    "total": 1644920,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2016",
+    "state": "Delaware",
+    "votes": 235603,
+    "total": 441590,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2016",
+    "state": "Delaware",
+    "votes": 185127,
+    "total": 441590,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2016",
+    "state": "District Of Columbia",
+    "votes": 282830,
+    "total": 312575,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2016",
+    "state": "District Of Columbia",
+    "votes": 12723,
+    "total": 312575,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2016",
+    "state": "Florida",
+    "votes": 4617886,
+    "total": 9420039,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2016",
+    "state": "Florida",
+    "votes": 4504975,
+    "total": 9420039,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2016",
+    "state": "Georgia",
+    "votes": 2089104,
+    "total": 4114732,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2016",
+    "state": "Georgia",
+    "votes": 1877963,
+    "total": 4114732,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2016",
+    "state": "Hawaii",
+    "votes": 266891,
+    "total": 437664,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2016",
+    "state": "Hawaii",
+    "votes": 128847,
+    "total": 437664,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2016",
+    "state": "Idaho",
+    "votes": 409055,
+    "total": 690255,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2016",
+    "state": "Idaho",
+    "votes": 189765,
+    "total": 690255,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2016",
+    "state": "Illinois",
+    "votes": 3090729,
+    "total": 5536424,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2016",
+    "state": "Illinois",
+    "votes": 2146015,
+    "total": 5536424,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2016",
+    "state": "Indiana",
+    "votes": 1557286,
+    "total": 2734958,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2016",
+    "state": "Indiana",
+    "votes": 1033126,
+    "total": 2734958,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2016",
+    "state": "Iowa",
+    "votes": 800983,
+    "total": 1565580,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2016",
+    "state": "Iowa",
+    "votes": 653669,
+    "total": 1565580,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2016",
+    "state": "Kansas",
+    "votes": 671018,
+    "total": 1184402,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2016",
+    "state": "Kansas",
+    "votes": 427005,
+    "total": 1184402,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2016",
+    "state": "Kentucky",
+    "votes": 1202971,
+    "total": 1924149,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2016",
+    "state": "Kentucky",
+    "votes": 628854,
+    "total": 1924149,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2016",
+    "state": "Louisiana",
+    "votes": 1178638,
+    "total": 2029032,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2016",
+    "state": "Louisiana",
+    "votes": 780154,
+    "total": 2029032,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2016",
+    "state": "Maine",
+    "votes": 357735,
+    "total": 771892,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2016",
+    "state": "Maine",
+    "votes": 335593,
+    "total": 771892,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2016",
+    "state": "Maryland",
+    "votes": 1677928,
+    "total": 2781446,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2016",
+    "state": "Maryland",
+    "votes": 943169,
+    "total": 2781446,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2016",
+    "state": "Maryland",
+    "votes": 259,
+    "total": 2781446,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2016",
+    "state": "Maryland",
+    "votes": 78,
+    "total": 2781446,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2016",
+    "state": "Massachusetts",
+    "votes": 1995196,
+    "total": 3378821,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2016",
+    "state": "Massachusetts",
+    "votes": 1090893,
+    "total": 3378821,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2016",
+    "state": "Michigan",
+    "votes": 2279543,
+    "total": 4799284,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2016",
+    "state": "Michigan",
+    "votes": 2268839,
+    "total": 4799284,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2016",
+    "state": "Minnesota",
+    "votes": 1367705,
+    "total": 2944782,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2016",
+    "state": "Minnesota",
+    "votes": 1322949,
+    "total": 2944782,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2016",
+    "state": "Mississippi",
+    "votes": 700714,
+    "total": 1209357,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2016",
+    "state": "Mississippi",
+    "votes": 485131,
+    "total": 1209357,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2016",
+    "state": "Missouri",
+    "votes": 1594511,
+    "total": 2808605,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2016",
+    "state": "Missouri",
+    "votes": 1071068,
+    "total": 2808605,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2016",
+    "state": "Montana",
+    "votes": 279240,
+    "total": 494526,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2016",
+    "state": "Montana",
+    "votes": 177709,
+    "total": 494526,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2016",
+    "state": "Nebraska",
+    "votes": 495961,
+    "total": 844227,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2016",
+    "state": "Nebraska",
+    "votes": 284494,
+    "total": 844227,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2016",
+    "state": "Nevada",
+    "votes": 539260,
+    "total": 1125385,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2016",
+    "state": "Nevada",
+    "votes": 512058,
+    "total": 1125385,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2016",
+    "state": "New Hampshire",
+    "votes": 348526,
+    "total": 744296,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2016",
+    "state": "New Hampshire",
+    "votes": 345790,
+    "total": 744296,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2016",
+    "state": "New Jersey",
+    "votes": 2148278,
+    "total": 3874046,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2016",
+    "state": "New Jersey",
+    "votes": 1601933,
+    "total": 3874046,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2016",
+    "state": "New Mexico",
+    "votes": 385234,
+    "total": 798319,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2016",
+    "state": "New Mexico",
+    "votes": 319667,
+    "total": 798319,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2016",
+    "state": "New York",
+    "votes": 4379789,
+    "total": 7802084,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2016",
+    "state": "New York",
+    "votes": 2527142,
+    "total": 7802084,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2016",
+    "state": "North Carolina",
+    "votes": 2362631,
+    "total": 4741564,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2016",
+    "state": "North Carolina",
+    "votes": 2189316,
+    "total": 4741564,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2016",
+    "state": "North Dakota",
+    "votes": 216794,
+    "total": 344360,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2016",
+    "state": "North Dakota",
+    "votes": 93758,
+    "total": 344360,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2016",
+    "state": "Ohio",
+    "votes": 2841005,
+    "total": 5496487,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2016",
+    "state": "Ohio",
+    "votes": 2394164,
+    "total": 5496487,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2016",
+    "state": "Oklahoma",
+    "votes": 949136,
+    "total": 1452992,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2016",
+    "state": "Oklahoma",
+    "votes": 420375,
+    "total": 1452992,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2016",
+    "state": "Oregon",
+    "votes": 1002106,
+    "total": 2001336,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2016",
+    "state": "Oregon",
+    "votes": 782403,
+    "total": 2001336,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2016",
+    "state": "Pennsylvania",
+    "votes": 2970733,
+    "total": 6115402,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2016",
+    "state": "Pennsylvania",
+    "votes": 2926441,
+    "total": 6115402,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2016",
+    "state": "Rhode Island",
+    "votes": 252525,
+    "total": 464144,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2016",
+    "state": "Rhode Island",
+    "votes": 180543,
+    "total": 464144,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2016",
+    "state": "South Carolina",
+    "votes": 1155389,
+    "total": 2103027,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2016",
+    "state": "South Carolina",
+    "votes": 855373,
+    "total": 2103027,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2016",
+    "state": "South Dakota",
+    "votes": 227721,
+    "total": 370093,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2016",
+    "state": "South Dakota",
+    "votes": 117458,
+    "total": 370093,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2016",
+    "state": "Tennessee",
+    "votes": 1522925,
+    "total": 2508027,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2016",
+    "state": "Tennessee",
+    "votes": 870695,
+    "total": 2508027,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2016",
+    "state": "Texas",
+    "votes": 4685047,
+    "total": 8969226,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2016",
+    "state": "Texas",
+    "votes": 3877868,
+    "total": 8969226,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2016",
+    "state": "Utah",
+    "votes": 515211,
+    "total": 1131317,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2016",
+    "state": "Utah",
+    "votes": 310674,
+    "total": 1131317,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2016",
+    "state": "Vermont",
+    "votes": 178573,
+    "total": 320467,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2016",
+    "state": "Vermont",
+    "votes": 95369,
+    "total": 320467,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2016",
+    "state": "Virginia",
+    "votes": 1981473,
+    "total": 3982752,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2016",
+    "state": "Virginia",
+    "votes": 1769443,
+    "total": 3982752,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2016",
+    "state": "Washington",
+    "votes": 1742718,
+    "total": 3317019,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2016",
+    "state": "Washington",
+    "votes": 1221747,
+    "total": 3317019,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2016",
+    "state": "West Virginia",
+    "votes": 489371,
+    "total": 713051,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2016",
+    "state": "West Virginia",
+    "votes": 188794,
+    "total": 713051,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2016",
+    "state": "Wisconsin",
+    "votes": 1405284,
+    "total": 2976150,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2016",
+    "state": "Wisconsin",
+    "votes": 1382536,
+    "total": 2976150,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2016",
+    "state": "Wyoming",
+    "votes": 174419,
+    "total": 258788,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2016",
+    "state": "Wyoming",
+    "votes": 55973,
+    "total": 258788,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2020",
+    "state": "Alabama",
+    "votes": 849624,
+    "total": 2323282,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2020",
+    "state": "Alabama",
+    "votes": 1441170,
+    "total": 2323282,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2020",
+    "state": "Alaska",
+    "votes": 153778,
+    "total": 359530,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2020",
+    "state": "Alaska",
+    "votes": 189951,
+    "total": 359530,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2020",
+    "state": "Arizona",
+    "votes": 1672143,
+    "total": 3387326,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2020",
+    "state": "Arizona",
+    "votes": 1661686,
+    "total": 3387326,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2020",
+    "state": "Arkansas",
+    "votes": 423932,
+    "total": 1219069,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2020",
+    "state": "Arkansas",
+    "votes": 760647,
+    "total": 1219069,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2020",
+    "state": "California",
+    "votes": 11110250,
+    "total": 17500881,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2020",
+    "state": "California",
+    "votes": 6006429,
+    "total": 17500881,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2020",
+    "state": "Colorado",
+    "votes": 1804352,
+    "total": 3279980,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2020",
+    "state": "Colorado",
+    "votes": 1364607,
+    "total": 3279980,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2020",
+    "state": "Connecticut",
+    "votes": 1080831,
+    "total": 1823857,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2020",
+    "state": "Connecticut",
+    "votes": 714717,
+    "total": 1823857,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2020",
+    "state": "Delaware",
+    "votes": 296268,
+    "total": 504346,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2020",
+    "state": "Delaware",
+    "votes": 200603,
+    "total": 504346,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2020",
+    "state": "District Of Columbia",
+    "votes": 317323,
+    "total": 344356,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2020",
+    "state": "District Of Columbia",
+    "votes": 18586,
+    "total": 344356,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2020",
+    "state": "Florida",
+    "votes": 5297045,
+    "total": 11067456,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2020",
+    "state": "Florida",
+    "votes": 5668731,
+    "total": 11067456,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2020",
+    "state": "Georgia",
+    "votes": 2473633,
+    "total": 4999960,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2020",
+    "state": "Georgia",
+    "votes": 2461854,
+    "total": 4999960,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2020",
+    "state": "Hawaii",
+    "votes": 366130,
+    "total": 579784,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2020",
+    "state": "Hawaii",
+    "votes": 196864,
+    "total": 579784,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2020",
+    "state": "Idaho",
+    "votes": 287021,
+    "total": 868014,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2020",
+    "state": "Idaho",
+    "votes": 554119,
+    "total": 868014,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2020",
+    "state": "Illinois",
+    "votes": 3471915,
+    "total": 6033743,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2020",
+    "state": "Illinois",
+    "votes": 2446891,
+    "total": 6033743,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2020",
+    "state": "Indiana",
+    "votes": 1242416,
+    "total": 3033118,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2020",
+    "state": "Indiana",
+    "votes": 1729519,
+    "total": 3033118,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2020",
+    "state": "Iowa",
+    "votes": 897672,
+    "total": 1700130,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2020",
+    "state": "Iowa",
+    "votes": 759061,
+    "total": 1700130,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2020",
+    "state": "Kansas",
+    "votes": 771406,
+    "total": 1372303,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2020",
+    "state": "Kansas",
+    "votes": 570323,
+    "total": 1372303,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2020",
+    "state": "Kentucky",
+    "votes": 1326646,
+    "total": 2136768,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2020",
+    "state": "Kentucky",
+    "votes": 772474,
+    "total": 2136768,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2020",
+    "state": "Louisiana",
+    "votes": 856034,
+    "total": 2148062,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2020",
+    "state": "Louisiana",
+    "votes": 1255776,
+    "total": 2148062,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2020",
+    "state": "Maine",
+    "votes": 435072,
+    "total": 828305,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2020",
+    "state": "Maine",
+    "votes": 360737,
+    "total": 828305,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2020",
+    "state": "Maryland",
+    "votes": 976414,
+    "total": 3037030,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2020",
+    "state": "Maryland",
+    "votes": 1985023,
+    "total": 3037030,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2020",
+    "state": "Massachusetts",
+    "votes": 2382202,
+    "total": 3658005,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2020",
+    "state": "Massachusetts",
+    "votes": 1167202,
+    "total": 3658005,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2020",
+    "state": "Michigan",
+    "votes": 2804040,
+    "total": 5539302,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2020",
+    "state": "Michigan",
+    "votes": 2649852,
+    "total": 5539302,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2020",
+    "state": "Minnesota",
+    "votes": 1484065,
+    "total": 3277171,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2020",
+    "state": "Minnesota",
+    "votes": 1717077,
+    "total": 3277171,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2020",
+    "state": "Mississippi",
+    "votes": 539398,
+    "total": 1313759,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2020",
+    "state": "Mississippi",
+    "votes": 756764,
+    "total": 1313759,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2020",
+    "state": "Missouri",
+    "votes": 1718736,
+    "total": 3025962,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2020",
+    "state": "Missouri",
+    "votes": 1253014,
+    "total": 3025962,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2020",
+    "state": "Montana",
+    "votes": 343602,
+    "total": 603674,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2020",
+    "state": "Montana",
+    "votes": 244786,
+    "total": 603674,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2020",
+    "state": "Nebraska",
+    "votes": 556846,
+    "total": 956383,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2020",
+    "state": "Nebraska",
+    "votes": 374583,
+    "total": 956383,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2020",
+    "state": "Nevada",
+    "votes": 669890,
+    "total": 1405376,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2020",
+    "state": "Nevada",
+    "votes": 703486,
+    "total": 1405376,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2020",
+    "state": "New Hampshire",
+    "votes": 365654,
+    "total": 806182,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2020",
+    "state": "New Hampshire",
+    "votes": 424921,
+    "total": 806182,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2020",
+    "state": "New Jersey",
+    "votes": 1883274,
+    "total": 4549353,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2020",
+    "state": "New Jersey",
+    "votes": 2608335,
+    "total": 4549353,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2020",
+    "state": "New Mexico",
+    "votes": 501614,
+    "total": 923965,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2020",
+    "state": "New Mexico",
+    "votes": 401894,
+    "total": 923965,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2020",
+    "state": "New York",
+    "votes": 5230985,
+    "total": 8661735,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2020",
+    "state": "New York",
+    "votes": 3244798,
+    "total": 8661735,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2020",
+    "state": "North Carolina",
+    "votes": 2758773,
+    "total": 5524802,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2020",
+    "state": "North Carolina",
+    "votes": 2684292,
+    "total": 5524802,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2020",
+    "state": "North Dakota",
+    "votes": 235595,
+    "total": 361819,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2020",
+    "state": "North Dakota",
+    "votes": 114902,
+    "total": 361819,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2020",
+    "state": "Ohio",
+    "votes": 3154834,
+    "total": 5922202,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2020",
+    "state": "Ohio",
+    "votes": 2679165,
+    "total": 5922202,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2020",
+    "state": "Oklahoma",
+    "votes": 1020280,
+    "total": 1560699,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2020",
+    "state": "Oklahoma",
+    "votes": 503890,
+    "total": 1560699,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2020",
+    "state": "Oregon",
+    "votes": 958448,
+    "total": 2374321,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2020",
+    "state": "Oregon",
+    "votes": 1340383,
+    "total": 2374321,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2020",
+    "state": "Pennsylvania",
+    "votes": 3377674,
+    "total": 6915283,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2020",
+    "state": "Pennsylvania",
+    "votes": 3458229,
+    "total": 6915283,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2020",
+    "state": "Rhode Island",
+    "votes": 307486,
+    "total": 516990,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2020",
+    "state": "Rhode Island",
+    "votes": 199922,
+    "total": 516990,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2020",
+    "state": "South Carolina",
+    "votes": 1385103,
+    "total": 2514096,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2020",
+    "state": "South Carolina",
+    "votes": 1091541,
+    "total": 2514096,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2020",
+    "state": "South Dakota",
+    "votes": 261043,
+    "total": 422609,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2020",
+    "state": "South Dakota",
+    "votes": 150471,
+    "total": 422609,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2020",
+    "state": "Tennessee",
+    "votes": 1852475,
+    "total": 3053851,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2020",
+    "state": "Tennessee",
+    "votes": 1143711,
+    "total": 3053851,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2020",
+    "state": "Texas",
+    "votes": 5890347,
+    "total": 11315056,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2020",
+    "state": "Texas",
+    "votes": 5259126,
+    "total": 11315056,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2020",
+    "state": "Utah",
+    "votes": 560282,
+    "total": 1488289,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2020",
+    "state": "Utah",
+    "votes": 865140,
+    "total": 1488289,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2020",
+    "state": "Vermont",
+    "votes": 242820,
+    "total": 370968,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2020",
+    "state": "Vermont",
+    "votes": 112704,
+    "total": 370968,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2020",
+    "state": "Virginia",
+    "votes": 2413568,
+    "total": 4460524,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2020",
+    "state": "Virginia",
+    "votes": 1962430,
+    "total": 4460524,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2020",
+    "state": "Washington",
+    "votes": 2369612,
+    "total": 4087631,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2020",
+    "state": "Washington",
+    "votes": 1584651,
+    "total": 4087631,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2020",
+    "state": "West Virginia",
+    "votes": 235984,
+    "total": 794652,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2020",
+    "state": "West Virginia",
+    "votes": 545382,
+    "total": 794652,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2020",
+    "state": "Wisconsin",
+    "votes": 1630866,
+    "total": 3298041,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2020",
+    "state": "Wisconsin",
+    "votes": 1610184,
+    "total": 3298041,
+    "party_detailed": "REPUBLICAN"
+  },
+  {
+    "year": "2020",
+    "state": "Wyoming",
+    "votes": 73491,
+    "total": 278503,
+    "party_detailed": "DEMOCRAT"
+  },
+  {
+    "year": "2020",
+    "state": "Wyoming",
+    "votes": 193559,
+    "total": 278503,
+    "party_detailed": "REPUBLICAN"
+  }
+]
