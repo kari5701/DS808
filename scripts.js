@@ -74,7 +74,12 @@ async function showPresidentData() {
 
 async function filsterPresidentData() {
     // Filter data by the specified year
-    const yearData = electionData.filter((entry) => entry.congress_began_year == yearDisplay.innerHTML);
+    let yearData = electionData.filter((entry) => entry.congress_began_year == yearDisplay.innerHTML);
+    console.log(yearData);
+    if(yearData.length == 0){
+        console.log('no data');
+        yearData = electionData.filter((entry) => entry.congress_began_year == yearDisplay.innerHTML -2);
+    }
     // Group data by state and find the winner in each state
     const stateWinners = yearData.reduce((acc, entry) => {
         // If the state is not already in the accumulator, add it
@@ -192,7 +197,7 @@ async function filsterHouseData() {
 // ########################################
 // ########################################
 // ########################################
-
+let stateWins;
 async function drawMap() {
     // Load the data file
     const us = await d3.json(
@@ -215,10 +220,10 @@ async function drawMap() {
 
     const width = 1075;
     const height = 710;
-    let stateWins;
 
     if (activeTab == 'president-tab') {
         stateWins = await filsterPresidentData(yearDisplay.innerHTML);
+        console.log('#### ',stateWins)
     }
     if (activeTab == 'senate-tab') {
         stateWins = await filsterSenateData(yearDisplay.innerHTML);
