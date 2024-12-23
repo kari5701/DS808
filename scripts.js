@@ -470,7 +470,7 @@ function drawPowerDynamic(data) {
     };
 
     const circleRadius = 100;
-    const overlapOffset = -20;
+    const overlapOffset = -40;
 
     // Draw Senate circle
     svg.append("circle")
@@ -489,7 +489,7 @@ function drawPowerDynamic(data) {
     // Draw Presidency circle
     svg.append("circle")
         .attr("cx", width / 2)
-        .attr("cy", height / 2 - circleRadius - overlapOffset)
+        .attr("cy", height / 4 - overlapOffset)
         .attr("r", circleRadius)
         .attr("fill", colors[presidency.includes("Democrat") ? "Democrat" : "Republican"] || "gray");
 
@@ -510,7 +510,7 @@ function drawPowerDynamic(data) {
 
     svg.append("text")
         .attr("x", width / 2)
-        .attr("y", height / 2 - circleRadius - overlapOffset - 110)
+        .attr("y", height / 2 - circleRadius - overlapOffset - 130)
         .text(`President`)
         .style("font-size", "14px")
         .attr("text-anchor", "middle");
