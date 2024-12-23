@@ -1,156 +1,222 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Map</title>
-    <style>
-      .tabs {
-        display: flex;
-        justify-content: center;
-        background-color: #f1f1f1;
-        border-bottom: 2px solid #ccc;
-        margin-bottom: 20px;
-      }
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Map</title>
+  <style>
+    .tabs {
+      display: flex;
+      justify-content: center;
+      background-color: #f1f1f1;
+      border-bottom: 2px solid #ccc;
+      margin-bottom: 20px;
+    }
 
-      .tab {
-        padding: 10px 20px;
-        cursor: pointer;
-        border: none;
-        background: none;
-        font-size: 16px;
-        color: #555;
-        transition: color 0.3s, border-bottom 0.3s;
-      }
+    .tab {
+      padding: 10px 20px;
+      cursor: pointer;
+      border: none;
+      background: none;
+      font-size: 16px;
+      color: #555;
+    }
 
-      .tab:hover {
-        color: #000;
-      }
+    .tab:hover {
+      color: #000;
+    }
 
-      .tab.active {
-        color: #000;
-        border-bottom: 2px solid #007BFF;
-      }
+    .tab.active {
+      color: #000;
+      border-bottom: 2px solid #000;
+    }
 
-      .tab-content {
-        display: none;
-      }
+    .tab-content {
+      display: none;
+    }
 
-      .tab-content.active {
-        display: block;
-      }
+    .tab-content.active {
+      display: block;
+    }
 
-      input[type='range'] {
-        -webkit-appearance: none;
-        width: 100%;
-        height: 8px;
-        outline: none;
-        opacity: 0.8;
-        transition: opacity 0.2s;
-        border-radius: 4px;
-      }
+    input[type='range'] {
+      -webkit-appearance: none;
+      width: 100%;
+      height: 8px;
+      outline: none;
+      opacity: 0.8;
+      transition: opacity 0.2s;
+      border-radius: 4px;
+    }
 
-      input[type='range']:hover {
-        opacity: 1; /* Slightly lighter when hovering */
-      }
+    input[type='range']:hover {
+      opacity: 1; /* Slightly lighter when hovering */
+    }
 
-      /* Style the slider thumb */
-      input[type='range']::-webkit-slider-thumb {
-        -webkit-appearance: none;
-        appearance: none;
-        width: 18px;
-        height: 18px;
-        background-color: black; /* Black thumb */
-        border: 2px solid #fff; /* Optional white border for contrast */
-        border-radius: 50%;
-        cursor: pointer;
-      }
+    /* Style the slider thumb */
+    input[type='range']::-webkit-slider-thumb {
+      -webkit-appearance: none;
+      appearance: none;
+      width: 18px;
+      height: 18px;
+      background-color: black; /* Black thumb */
+      border: 2px solid #fff; /* Optional white border for contrast */
+      border-radius: 50%;
+      cursor: pointer;
+      z-index: 100000000;
+    }
 
-      input[type='range']::-moz-range-thumb {
-        width: 18px;
-        height: 18px;
+    input[type='range']::-moz-range-thumb {
+      width: 18px;
+      height: 18px;
 
-        border: 2px solid #fff; /* Optional white border */
-        border-radius: 50%;
-        cursor: pointer;
-      }
+      border: 2px solid #fff; /* Optional white border */
+      border-radius: 50%;
+      cursor: pointer;
+    }
 
-      input[type='range']::-ms-track {
-        border-color: transparent;
-        color: transparent;
-      }
+    input[type='range']::-ms-track {
+      border-color: transparent;
+      color: transparent;
+    }
 
-      body {
-        font-family: Arial, sans-serif;
-        display: flex;
-        justify-content: center;
-        align-items: center;
-        height: 100vh;
-        margin: 0;
-        background-color: #f0f0f0;
-      }
+    body {
+      font-family: Arial, sans-serif;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      margin: 0;
+      background-color: #f0f0f0;
+    }
 
-      /* Container to stack elements vertically */
-      .container {
-        position: relative;
-        display: flex;
-        flex-direction: column;
-        align-items: center;
-        gap: 10px;
-      }
+    /* Container to stack elements vertically */
+    .container {
+      position: relative;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      gap: 10px;
+    }
 
-      /* Optional styling for the slider */
-      #yearSlider {
-        width: 300px;
-      }
+    /* Optional styling for the slider */
+    #yearSlider {
+      width: 300px;
+    }
 
-      /* Styling for the text */
-      #state-name {
-        font-weight: bold;
-      }
-      #year {
-        font-size: 1.2em;
-        text-align: center;
-      }
+    /* Styling for the text */
+    #state-name {
+      font-weight: bold;
+    }
+    #year {
+      font-size: 1.2em;
+      text-align: center;
+    }
 
-      .circle:hover {
-        opacity: 0.5;
-      }
+    .circle:hover {
+      opacity: 0.5;
+    }
 
-      .tooltip {
-        position: absolute;
-      }
-    </style>
-  </head>
-  <body>
-  <!-- Tab Contents -->
-  <div id="president" class="tab-content active">
-    <div class="container">
-      <div class="tabs">
-        <button id="president-tab" onclick="showPresidentData()" class="tab active" data-tab="president">President</button>
-        <button id="senate-tab" onclick="showSenateData()"  class="tab" data-tab="senate">Senate</button>
-        <button id="house-tab" onclick="showHouseData()"  class="tab" data-tab="house">House</button>
-      </div>
-      <input type="range" step="4" id="yearSlider" class="slider" min="1977" max="2025" value="1977" />
-      <p>Year: <span id="year">1976</span></p>
-      <div id="state-name">Click on a state</div>
-      <!-- Container for the map -->
-      <div id="chart"></div>
+    .tooltip {
+      position: absolute;
+      z-index: 1000;
+    }
+
+    #partyBarContainer {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      width: 100%;
+    }
+
+    .circle {
+      width: 50px;
+      height: 50px;
+      margin: 15px;
+      border-radius: 50%;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      color: white;
+      font-weight: bold;
+    }
+
+    .republican-circle {
+      background-color: #dc5356;
+    }
+
+    .democrat-circle {
+      background-color: #5fb7e5;
+    }
+
+    .bar-container {
+      flex-grow: 1;
+      height: 20px;
+      background-color: #e0e0e0;
+      border-radius: 10px;
+      position: relative;
+      display: flex;
+    }
+
+    .republican-bar {
+      height: 100%;
+      background-color: #dc5356;
+      border-radius: 10px 0 0 10px;
+    }
+
+    .democrat-bar {
+      height: 100%;
+      background-color: #5fb7e5;
+      border-radius: 0 10px 10px 0;
+    }
+  </style>
+</head>
+<body>
+<!-- Tab Contents -->
+<div id="president" class="tab-content active">
+  <div class="container">
+    <div class="tabs">
+      <button id="president-tab" onclick="showPresidentData()" class="tab active" data-tab="president">President</button>
+      <button id="senate-tab" onclick="showSenateData()" class="tab" data-tab="senate">Senate</button>
+      <button id="house-tab" onclick="showHouseData()" class="tab" data-tab="house">House</button>
     </div>
+
+    <div id="partyBarContainer">
+      <div class="circle republican-circle">
+        <span id="republicanCount">0</span>
+      </div>
+
+      <div id="partyBar" class="bar-container">
+        <div class="republican-bar"></div>
+        <div class="democrat-bar"></div>
+      </div>
+
+      <div class="circle democrat-circle">
+        <span id="democratCount">0</span>
+      </div>
+    </div>
+
+    <input type="range" step="4" id="yearSlider" class="slider" min="1977" max="2025" value="1977" />
+    <p>Year: <span id="year">1976</span></p>
+    <div id="state-name">Click on a state</div>
+
+    <!-- Container for the map -->
+    <div id="chart"></div>
   </div>
+</div>
 
-  <div id="senate" class="tab-content">
-    <p></p>
-  </div>
+<div id="senate" class="tab-content">
+  <p></p>
+</div>
 
-  <div id="house" class="tab-content">
-    <p></p>
-  </div>
+<div id="house" class="tab-content">
+  <p></p>
+</div>
 
-    <!-- D3.js and TopoJSON libraries -->
-    <script src="https://d3js.org/d3.v7.min.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/topojson/3.0.2/topojson.min.js"></script>
+<!-- D3.js and TopoJSON libraries -->
+<script src="https://d3js.org/d3.v7.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/topojson/3.0.2/topojson.min.js"></script>
 
-    <script src="scripts.js"></script>
-  </body>
+<script src="scripts.js"></script>
+</body>
 </html>
