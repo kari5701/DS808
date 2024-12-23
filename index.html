@@ -5,10 +5,24 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Map</title>
   <style>
+    .header-box {
+      text-align: center;
+      background-color: #ffffff; /
+    padding: 20px 10px;
+      margin-bottom: 48px;
+    }
+
+    .header-box h1 {
+      font-size: 48px;
+      font-weight: bold;
+      margin: 0;
+      color: #333;
+    }
+
     .tabs {
       display: flex;
       justify-content: center;
-      background-color: #f1f1f1;
+      background-color: #ffffff;
       border-bottom: 2px solid #ccc;
       margin-bottom: 20px;
     }
@@ -87,7 +101,7 @@
       align-items: center;
       height: 100vh;
       margin: 0;
-      background-color: #f0f0f0;
+      background-color: #ffffff;
     }
 
     /* Container to stack elements vertically */
@@ -102,6 +116,7 @@
     /* Optional styling for the slider */
     #yearSlider {
       width: 300px;
+      background-color: #f0f0f0;
     }
 
     /* Styling for the text */
@@ -128,6 +143,8 @@
       align-items: center;
       width: 100%;
     }
+
+
 
     .circle {
       width: 50px;
@@ -169,19 +186,78 @@
       background-color: #5fb7e5;
       border-radius: 0 10px 10px 0;
     }
+
+    #legend {
+      display: flex;
+      flex-direction: column;
+      align-items: flex-start;
+      margin-top: 20px;
+      font-size: 14px;
+    }
+
+    .legend-item {
+      display: flex;
+      align-items: center;
+      margin-bottom: 5px;
+    }
+
+    .legend-dot {
+      width: 15px;
+      height: 15px;
+      border-radius: 50%;
+      margin-right: 10px;
+    }
+
+    .legend-dot.democrat {
+      background-color: #5fb7e5; /* Blå farve for Demokrat */
+    }
+
+    .legend-dot.republican {
+      background-color: #dc5356; /* Rød farve for Republikaner */
+    }
+
+    .visualization-container {
+      display: flex;
+      justify-content: space-between;
+      align-items: flex-start;
+      gap: 20px;
+      margin-top: 20px;
+    }
+
+    #chart {
+      flex: 1;
+    }
+
+    #power-dynamic {
+      flex: 0.5;
+      text-align: center;
+    }
+
   </style>
 </head>
 <body>
 <!-- Tab Contents -->
 <div id="president" class="tab-content active">
   <div class="container">
+    <div class="header-box">
+    <h1>A Beginners Guide to the U.S. Election</h1>
+  </div>
     <div class="tabs">
       <button id="president-tab" onclick="showPresidentData()" class="tab active" data-tab="president">President</button>
       <button id="senate-tab" onclick="showSenateData()" class="tab" data-tab="senate">Senate</button>
       <button id="house-tab" onclick="showHouseData()" class="tab" data-tab="house">House</button>
     </div>
 
+
+
+    <input type="range" step="4" id="yearSlider" class="slider" min="1977" max="2025" value="1977" />
+    <p>Year: <span id="year">1976</span></p>
+    <div id="state-name">Click on a state</div>
+
+
     <div id="partyBarContainer">
+      <!-- New container for the labels -->
+
       <div class="circle republican-circle">
         <span id="republicanCount">0</span>
       </div>
@@ -196,12 +272,30 @@
       </div>
     </div>
 
-    <input type="range" step="4" id="yearSlider" class="slider" min="1977" max="2025" value="1977" />
-    <p>Year: <span id="year">1976</span></p>
-    <div id="state-name">Click on a state</div>
-
     <!-- Container for the map -->
+  <div class="visualization-container">
     <div id="chart"></div>
+
+    <!-- The Power Dynamic -->
+    <div id="power-dynamic">
+      <h2>The Power Dynamic</h2>
+      <svg id="vennDiagram" width="500" height="500"></svg>
+    </div>
+
+    <!-- Indicator dots -->
+    <div id="legend">
+      <div class="legend-item">
+        <div class="legend-dot democrat"></div>
+        <span>Democrat</span>
+      </div>
+      <div class="legend-item">
+        <div class="legend-dot republican"></div>
+        <span>Republican</span>
+      </div>
+
+  </div>
+    </div>
+
   </div>
 </div>
 

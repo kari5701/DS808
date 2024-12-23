@@ -1,5 +1,22 @@
 let stateInfo;
 
+document.addEventListener("DOMContentLoaded", async function () {
+    await loadPowerData(); // Load Power Dynamic data
+    showPresidentData(); // Load the map initially
+
+    // Get the default year from the slider
+    const defaultYear = parseInt(slider.value);
+
+    // Filter and draw Power Dynamic for the default year
+    const powerDataForYear = filterPowerData(defaultYear);
+    if (powerDataForYear) {
+        drawPowerDynamic(powerDataForYear);
+    } else {
+        console.log(`No Power Dynamic data available for year ${defaultYear}`);
+    }
+});
+
+
 const slider = document.getElementById('yearSlider');
 const yearDisplay = document.getElementById('year');
 yearDisplay.innerHTML = slider.value;
@@ -10,12 +27,19 @@ let activeTab = 'president-tab';
 
 slider.oninput = async function () {
     yearDisplay.innerHTML = this.value;
-    // Clear the previous timeout
+    const year = parseInt(this.value);
+
     clearTimeout(debounceTimeout);
 
-    // Set a new timeout to call drawMap after a delay
-    debounceTimeout = setTimeout(() => {
-        drawMap(this.value);
+    debounceTimeout = setTimeout(async () => {
+        await drawMap(year);
+
+        const powerDataForYear = filterPowerData(year);
+        if (powerDataForYear) {
+            drawPowerDynamic(powerDataForYear);
+        } else {
+            console.log(`No Power Dynamic data available for year ${year}`);
+        }
     }, 200);
 };
 
@@ -414,3 +438,90 @@ async function drawMap() {
 // Run the function to draw the map
 //drawMap();
 showPresidentData();
+
+let powerData;
+
+async function loadPowerData() {
+    if (!powerData) {
+        powerData = await d3.json('./files/party_control_1977-2025.json');
+        console.log("Power Data Loaded:", powerData); // Debugging
+    }
+}
+
+
+function drawPowerDynamic(data) {
+    const svg = d3.select("#vennDiagram");
+    const width = svg.attr("width");
+    const height = svg.attr("height");
+
+    // Clear previous visualization
+    svg.selectAll("*").remove();
+
+    // Extract data for circles
+    const senateMajority = data["Senate Majority"];
+    const houseMajority = data["House Majority"];
+    const presidency = data["Presidency"];
+    const isSplitCongress = data["Split Congress"] === "Yes";
+
+    const colors = {
+        "Democrat": "rgba(95, 183, 229, 0.5)",
+        "Republican": "rgba(220, 83, 86, 0.5)",
+        "Split": "rgba(158, 133, 158, 0.5)",
+    };
+
+    const circleRadius = 100;
+    const overlapOffset = -20;
+
+    // Draw Senate circle
+    svg.append("circle")
+        .attr("cx", width / 2 - circleRadius - overlapOffset)
+        .attr("cy", height / 2)
+        .attr("r", circleRadius)
+        .attr("fill", colors[senateMajority] || "gray");
+
+    // Draw House circle
+    svg.append("circle")
+        .attr("cx", width / 2 + circleRadius + overlapOffset)
+        .attr("cy", height / 2)
+        .attr("r", circleRadius)
+        .attr("fill", colors[houseMajority] || "gray");
+
+    // Draw Presidency circle
+    svg.append("circle")
+        .attr("cx", width / 2)
+        .attr("cy", height / 2 - circleRadius - overlapOffset)
+        .attr("r", circleRadius)
+        .attr("fill", colors[presidency.includes("Democrat") ? "Democrat" : "Republican"] || "gray");
+
+    // Add Labels
+    svg.append("text")
+        .attr("x", width / 2 - circleRadius - overlapOffset - 40)
+        .attr("y", height / 2 + circleRadius + 20)
+        .text(`Senate`)
+        .style("font-size", "14px")
+        .attr("text-anchor", "middle");
+
+    svg.append("text")
+        .attr("x", width / 2 + circleRadius + overlapOffset + 40)
+        .attr("y", height / 2 + circleRadius + 20)
+        .text(`House`)
+        .style("font-size", "14px")
+        .attr("text-anchor", "middle");
+
+    svg.append("text")
+        .attr("x", width / 2)
+        .attr("y", height / 2 - circleRadius - overlapOffset - 110)
+        .text(`President`)
+        .style("font-size", "14px")
+        .attr("text-anchor", "middle");
+
+    // Add Title
+    svg.append("text")
+        .attr("x", width / 2)
+        .attr("y", 20)
+}
+
+function filterPowerData(year) {
+    if (!powerData) return null;
+    return powerData.find(entry => entry["Congress Began Year"] == year);
+}

@@ -1,1 +1,218 @@
-[{"congress_nr":95,"congress_began_year":1977,"presidency":"Democrat (Carter)","senate_majority":"Democrat","house_majority":"Democrat","split_congress":"No","notes":""},{"congress_nr":96,"congress_began_year":1979,"presidency":"Democrat (Carter)","senate_majority":"Democrat","house_majority":"Democrat","split_congress":"No","notes":""},{"congress_nr":97,"congress_began_year":1981,"presidency":"Republican (Reagan)","senate_majority":"Republican","house_majority":"Democrat","split_congress":"Yes","notes":""},{"congress_nr":98,"congress_began_year":1983,"presidency":"Republican (Reagan)","senate_majority":"Republican","house_majority":"Democrat","split_congress":"Yes","notes":""},{"congress_nr":99,"congress_began_year":1985,"presidency":"Republican (Reagan)","senate_majority":"Republican","house_majority":"Democrat","split_congress":"Yes","notes":""},{"congress_nr":100,"congress_began_year":1987,"presidency":"Republican (Reagan)","senate_majority":"Democrat","house_majority":"Democrat","split_congress":"Yes","notes":""},{"congress_nr":101,"congress_began_year":1989,"presidency":"Republican (G.H.W. Bush)","senate_majority":"Democrat","house_majority":"Democrat","split_congress":"Yes","notes":""},{"congress_nr":102,"congress_began_year":1991,"presidency":"Republican (G.H.W. Bush)","senate_majority":"Democrat","house_majority":"Democrat","split_congress":"Yes","notes":""},{"congress_nr":103,"congress_began_year":1993,"presidency":"Democrat (Clinton)","senate_majority":"Democrat","house_majority":"Democrat","split_congress":"No","notes":""},{"congress_nr":104,"congress_began_year":1995,"presidency":"Democrat (Clinton)","senate_majority":"Republican","house_majority":"Republican","split_congress":"Yes","notes":""},{"congress_nr":105,"congress_began_year":1997,"presidency":"Democrat (Clinton)","senate_majority":"Republican","house_majority":"Republican","split_congress":"Yes","notes":""},{"congress_nr":106,"congress_began_year":1999,"presidency":"Democrat (Clinton)","senate_majority":"Republican","house_majority":"Republican","split_congress":"Yes","notes":""},{"congress_nr":107,"congress_began_year":2001,"presidency":"Republican (G.W. Bush)","senate_majority":"Split","house_majority":"Republican","split_congress":"Yes","notes":"Split Senate majority due to power-sharing agreement following Senator Jim Jeffords\u2019 party switch in 2001."},{"congress_nr":108,"congress_began_year":2003,"presidency":"Republican (G.W. Bush)","senate_majority":"Republican","house_majority":"Republican","split_congress":"No","notes":""},{"congress_nr":109,"congress_began_year":2005,"presidency":"Republican (G.W. Bush)","senate_majority":"Republican","house_majority":"Republican","split_congress":"No","notes":""},{"congress_nr":110,"congress_began_year":2007,"presidency":"Republican (G.W. Bush)","senate_majority":"Democrat","house_majority":"Democrat","split_congress":"Yes","notes":""},{"congress_nr":111,"congress_began_year":2009,"presidency":"Democrat (Obama)","senate_majority":"Democrat","house_majority":"Democrat","split_congress":"No","notes":""},{"congress_nr":112,"congress_began_year":2011,"presidency":"Democrat (Obama)","senate_majority":"Democrat","house_majority":"Republican","split_congress":"Yes","notes":""},{"congress_nr":113,"congress_began_year":2013,"presidency":"Democrat (Obama)","senate_majority":"Democrat","house_majority":"Republican","split_congress":"Yes","notes":""},{"congress_nr":114,"congress_began_year":2015,"presidency":"Democrat (Obama)","senate_majority":"Republican","house_majority":"Republican","split_congress":"Yes","notes":""},{"congress_nr":115,"congress_began_year":2017,"presidency":"Republican (Trump)","senate_majority":"Republican","house_majority":"Republican","split_congress":"No","notes":""},{"congress_nr":116,"congress_began_year":2019,"presidency":"Republican (Trump)","senate_majority":"Republican","house_majority":"Democrat","split_congress":"Yes","notes":""},{"congress_nr":117,"congress_began_year":2021,"presidency":"Democrat (Biden)","senate_majority":"Democrat","house_majority":"Democrat","split_congress":"No","notes":""},{"congress_nr":118,"congress_began_year":2023,"presidency":"Democrat (Biden)","senate_majority":"Democrat","house_majority":"Republican","split_congress":"Yes","notes":""}]
+[
+  {
+    "Congress Nr": 95,
+    "Congress Began Year": 1977,
+    "Presidency": "Democrat (Carter)",
+    "Senate Majority": "Democrat",
+    "House Majority": "Democrat",
+    "Split Congress": "No",
+    "Notes": ""
+  },
+  {
+    "Congress Nr": 96,
+    "Congress Began Year": 1979,
+    "Presidency": "Democrat (Carter)",
+    "Senate Majority": "Democrat",
+    "House Majority": "Democrat",
+    "Split Congress": "No",
+    "Notes": ""
+  },
+  {
+    "Congress Nr": 97,
+    "Congress Began Year": 1981,
+    "Presidency": "Republican (Reagan)",
+    "Senate Majority": "Republican",
+    "House Majority": "Democrat",
+    "Split Congress": "Yes",
+    "Notes": ""
+  },
+  {
+    "Congress Nr": 98,
+    "Congress Began Year": 1983,
+    "Presidency": "Republican (Reagan)",
+    "Senate Majority": "Republican",
+    "House Majority": "Democrat",
+    "Split Congress": "Yes",
+    "Notes": ""
+  },
+  {
+    "Congress Nr": 99,
+    "Congress Began Year": 1985,
+    "Presidency": "Republican (Reagan)",
+    "Senate Majority": "Republican",
+    "House Majority": "Democrat",
+    "Split Congress": "Yes",
+    "Notes": ""
+  },
+  {
+    "Congress Nr": 100,
+    "Congress Began Year": 1987,
+    "Presidency": "Republican (Reagan)",
+    "Senate Majority": "Democrat",
+    "House Majority": "Democrat",
+    "Split Congress": "Yes",
+    "Notes": ""
+  },
+  {
+    "Congress Nr": 101,
+    "Congress Began Year": 1989,
+    "Presidency": "Republican (G.H.W. Bush)",
+    "Senate Majority": "Democrat",
+    "House Majority": "Democrat",
+    "Split Congress": "Yes",
+    "Notes": ""
+  },
+  {
+    "Congress Nr": 102,
+    "Congress Began Year": 1991,
+    "Presidency": "Republican (G.H.W. Bush)",
+    "Senate Majority": "Democrat",
+    "House Majority": "Democrat",
+    "Split Congress": "Yes",
+    "Notes": ""
+  },
+  {
+    "Congress Nr": 103,
+    "Congress Began Year": 1993,
+    "Presidency": "Democrat (Clinton)",
+    "Senate Majority": "Democrat",
+    "House Majority": "Democrat",
+    "Split Congress": "No",
+    "Notes": ""
+  },
+  {
+    "Congress Nr": 104,
+    "Congress Began Year": 1995,
+    "Presidency": "Democrat (Clinton)",
+    "Senate Majority": "Republican",
+    "House Majority": "Republican",
+    "Split Congress": "Yes",
+    "Notes": ""
+  },
+  {
+    "Congress Nr": 105,
+    "Congress Began Year": 1997,
+    "Presidency": "Democrat (Clinton)",
+    "Senate Majority": "Republican",
+    "House Majority": "Republican",
+    "Split Congress": "Yes",
+    "Notes": ""
+  },
+  {
+    "Congress Nr": 106,
+    "Congress Began Year": 1999,
+    "Presidency": "Democrat (Clinton)",
+    "Senate Majority": "Republican",
+    "House Majority": "Republican",
+    "Split Congress": "Yes",
+    "Notes": ""
+  },
+  {
+    "Congress Nr": 107,
+    "Congress Began Year": 2001,
+    "Presidency": "Republican (G.W. Bush)",
+    "Senate Majority": "Split",
+    "House Majority": "Republican",
+    "Split Congress": "Yes",
+    "Notes": "Split Senate majority due to power-sharing agreement following Senator Jim Jeffords\u2019 party switch in 2001."
+  },
+  {
+    "Congress Nr": 108,
+    "Congress Began Year": 2003,
+    "Presidency": "Republican (G.W. Bush)",
+    "Senate Majority": "Republican",
+    "House Majority": "Republican",
+    "Split Congress": "No",
+    "Notes": ""
+  },
+  {
+    "Congress Nr": 109,
+    "Congress Began Year": 2005,
+    "Presidency": "Republican (G.W. Bush)",
+    "Senate Majority": "Republican",
+    "House Majority": "Republican",
+    "Split Congress": "No",
+    "Notes": ""
+  },
+  {
+    "Congress Nr": 110,
+    "Congress Began Year": 2007,
+    "Presidency": "Republican (G.W. Bush)",
+    "Senate Majority": "Democrat",
+    "House Majority": "Democrat",
+    "Split Congress": "Yes",
+    "Notes": ""
+  },
+  {
+    "Congress Nr": 111,
+    "Congress Began Year": 2009,
+    "Presidency": "Democrat (Obama)",
+    "Senate Majority": "Democrat",
+    "House Majority": "Democrat",
+    "Split Congress": "No",
+    "Notes": ""
+  },
+  {
+    "Congress Nr": 112,
+    "Congress Began Year": 2011,
+    "Presidency": "Democrat (Obama)",
+    "Senate Majority": "Democrat",
+    "House Majority": "Republican",
+    "Split Congress": "Yes",
+    "Notes": ""
+  },
+  {
+    "Congress Nr": 113,
+    "Congress Began Year": 2013,
+    "Presidency": "Democrat (Obama)",
+    "Senate Majority": "Democrat",
+    "House Majority": "Republican",
+    "Split Congress": "Yes",
+    "Notes": ""
+  },
+  {
+    "Congress Nr": 114,
+    "Congress Began Year": 2015,
+    "Presidency": "Democrat (Obama)",
+    "Senate Majority": "Republican",
+    "House Majority": "Republican",
+    "Split Congress": "Yes",
+    "Notes": ""
+  },
+  {
+    "Congress Nr": 115,
+    "Congress Began Year": 2017,
+    "Presidency": "Republican (Trump)",
+    "Senate Majority": "Republican",
+    "House Majority": "Republican",
+    "Split Congress": "No",
+    "Notes": ""
+  },
+  {
+    "Congress Nr": 116,
+    "Congress Began Year": 2019,
+    "Presidency": "Republican (Trump)",
+    "Senate Majority": "Republican",
+    "House Majority": "Democrat",
+    "Split Congress": "Yes",
+    "Notes": ""
+  },
+  {
+    "Congress Nr": 117,
+    "Congress Began Year": 2021,
+    "Presidency": "Democrat (Biden)",
+    "Senate Majority": "Democrat",
+    "House Majority": "Democrat",
+    "Split Congress": "No",
+    "Notes": ""
+  },
+  {
+    "Congress Nr": 118,
+    "Congress Began Year": 2023,
+    "Presidency": "Democrat (Biden)",
+    "Senate Majority": "Democrat",
+    "House Majority": "Republican",
+    "Split Congress": "Yes",
+    "Notes": ""
+  }
+]
