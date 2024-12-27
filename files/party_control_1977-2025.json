@@ -214,5 +214,14 @@
     "House Majority": "Republican",
     "Split Congress": "Yes",
     "Notes": ""
-  }
+  },
+    {
+    "Congress Nr": 118,
+    "Congress Began Year": 2025,
+    "Presidency": "Republican (Trump)",
+    "Senate Majority": "Republican",
+    "House Majority": "Republican",
+    "Split Congress": "No",
+    "Notes": ""
+  },
 ]
